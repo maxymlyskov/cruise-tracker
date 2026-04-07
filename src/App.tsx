@@ -39,7 +39,7 @@ function sortDeals(deals: CruiseDeal[], sortBy: string): CruiseDeal[] {
 }
 
 function App() {
-  const { deals, metadata, lastFetched, loading } = useDeals();
+  const { deals, lastFetched, loading } = useDeals();
   const [sortBy, setSortBy] = useState('score');
   const [cruiseLineFilter, setCruiseLineFilter] = useState('all');
 
