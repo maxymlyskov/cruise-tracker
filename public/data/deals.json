@@ -1,0 +1,591 @@
+{
+  "lastFetched": "2026-04-08T06:00:00Z",
+  "deals": [
+    {
+      "id": "msc-world-europa-jul-2026",
+      "shipName": "MSC World Europa",
+      "cruiseLine": "MSC Cruises",
+      "departureDate": "2026-07-05",
+      "returnDate": "2026-07-12",
+      "nights": 7,
+      "departurePort": "Piraeus (Athens), Greece",
+      "itinerary": [
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Kusadasi", "country": "Turkey" },
+        { "port": "Istanbul", "country": "Turkey" },
+        { "port": "Piraeus (Athens)", "country": "Greece" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1099,
+        "insidePerPerson": 699,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.cruisedirect.com/cruise-ship/msc-world-europa"
+      },
+      "ship": {
+        "yearBuilt": 2022,
+        "yearRefurbished": null,
+        "tonnage": 205700,
+        "passengerCapacity": 6762,
+        "rating": 4.1
+      },
+      "reviews": {
+        "overallRating": 4.1,
+        "foodRating": 3.9,
+        "serviceRating": 4.0,
+        "cabinRating": 4.3,
+        "entertainmentRating": 4.4,
+        "valueRating": 3.8,
+        "totalReviews": 847,
+        "highlights": [
+          "Stunning modern ship with outstanding pool deck and waterpark",
+          "Istanbul stop is rare and adds exceptional cultural value",
+          "Spacious balcony cabins with modern design and good storage"
+        ],
+        "concerns": [
+          "Main dining room service can feel rushed during peak dinner times",
+          "Specialty restaurants require reservations booked well in advance"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7823451",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1234"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.cruisedirect.com/cruise-ship/msc-world-europa",
+        "https://www.msccruises.com/cruise-rin/MSC-World-Europa"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "msc-musica-jul-2026",
+      "shipName": "MSC Musica",
+      "cruiseLine": "MSC Cruises",
+      "departureDate": "2026-07-11",
+      "returnDate": "2026-07-18",
+      "nights": 7,
+      "departurePort": "Venice, Italy",
+      "itinerary": [
+        { "port": "Venice", "country": "Italy" },
+        { "port": "Bari", "country": "Italy" },
+        { "port": "Katakolon (Olympia)", "country": "Greece" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Dubrovnik", "country": "Croatia" },
+        { "port": "Venice", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 849,
+        "insidePerPerson": 549,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.cruises.com/cruise-ship/msc-musica-cruises.htm"
+      },
+      "ship": {
+        "yearBuilt": 2006,
+        "yearRefurbished": 2015,
+        "tonnage": 92409,
+        "passengerCapacity": 3013,
+        "rating": 3.8
+      },
+      "reviews": {
+        "overallRating": 3.8,
+        "foodRating": 3.6,
+        "serviceRating": 3.7,
+        "cabinRating": 3.6,
+        "entertainmentRating": 3.9,
+        "valueRating": 4.0,
+        "totalReviews": 1243,
+        "highlights": [
+          "Excellent value for money with solid port-heavy itinerary",
+          "Dubrovnik and Santorini back-to-back is hard to beat",
+          "Live music throughout the ship creates a festive atmosphere"
+        ],
+        "concerns": [
+          "Ship is showing some age despite 2015 refurbishment",
+          "Buffet quality inconsistent — hit or miss depending on the day"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=6512384",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=658"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.cruises.com/cruise-ship/msc-musica-cruises.htm",
+        "https://www.msccruises.com/cruise-rin/MSC-Musica"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "costa-fascinosa-aug-2026",
+      "shipName": "Costa Fascinosa",
+      "cruiseLine": "Costa Cruises",
+      "departureDate": "2026-08-02",
+      "returnDate": "2026-08-09",
+      "nights": 7,
+      "departurePort": "Istanbul, Turkey",
+      "itinerary": [
+        { "port": "Istanbul", "country": "Turkey" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Dubrovnik", "country": "Croatia" },
+        { "port": "Bari", "country": "Italy" },
+        { "port": "Venice", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 799,
+        "insidePerPerson": 499,
+        "currency": "USD",
+        "originalPrice": 949,
+        "bookingUrl": "https://www.cruisedirect.com/cruise-ship/costa-fascinosa"
+      },
+      "ship": {
+        "yearBuilt": 2012,
+        "yearRefurbished": null,
+        "tonnage": 114500,
+        "passengerCapacity": 3800,
+        "rating": 3.7
+      },
+      "reviews": {
+        "overallRating": 3.7,
+        "foodRating": 3.5,
+        "serviceRating": 3.6,
+        "cabinRating": 3.7,
+        "entertainmentRating": 3.8,
+        "valueRating": 4.1,
+        "totalReviews": 976,
+        "highlights": [
+          "Departing from Istanbul is a rare and spectacular way to start a cruise",
+          "Significant price drop makes this an outstanding budget pick",
+          "Itinerary covers major Greek islands plus Adriatic highlights"
+        ],
+        "concerns": [
+          "Italian-style service can feel inattentive to English-speaking guests",
+          "Food quality is average compared to premium lines"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7102938",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=889"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.cruisedirect.com/cruise-ship/costa-fascinosa",
+        "https://www.costacruises.com/cruise-ship/costa-fascinosa.html"
+      ],
+      "status": "price_drop"
+    },
+    {
+      "id": "celebrity-apex-jul-2026",
+      "shipName": "Celebrity Apex",
+      "cruiseLine": "Celebrity Cruises",
+      "departureDate": "2026-07-18",
+      "returnDate": "2026-07-25",
+      "nights": 7,
+      "departurePort": "Rome (Civitavecchia), Italy",
+      "itinerary": [
+        { "port": "Rome (Civitavecchia)", "country": "Italy" },
+        { "port": "Naples", "country": "Italy" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Kusadasi (Ephesus)", "country": "Turkey" },
+        { "port": "Rome (Civitavecchia)", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1449,
+        "insidePerPerson": 899,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.celebritycruises.com/cruise-ship/celebrity-apex"
+      },
+      "ship": {
+        "yearBuilt": 2020,
+        "yearRefurbished": null,
+        "tonnage": 129500,
+        "passengerCapacity": 2910,
+        "rating": 4.5
+      },
+      "reviews": {
+        "overallRating": 4.5,
+        "foodRating": 4.6,
+        "serviceRating": 4.7,
+        "cabinRating": 4.5,
+        "entertainmentRating": 4.3,
+        "valueRating": 4.0,
+        "totalReviews": 1521,
+        "highlights": [
+          "Exceptional food quality across all venues including the included main dining",
+          "Eden restaurant and bar is a breathtaking multi-deck experience",
+          "Service consistently exceeds expectations — staff remember preferences"
+        ],
+        "concerns": [
+          "Premium price point puts this out of reach for budget travelers",
+          "Wi-Fi packages are expensive even by cruise industry standards"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7654321",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1198"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.celebritycruises.com/cruise-ship/celebrity-apex",
+        "https://www.cruises.com/cruise-ship/celebrity-apex-cruises.htm"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "norwegian-getaway-aug-2026",
+      "shipName": "Norwegian Getaway",
+      "cruiseLine": "Norwegian Cruise Line",
+      "departureDate": "2026-08-09",
+      "returnDate": "2026-08-16",
+      "nights": 7,
+      "departurePort": "Venice, Italy",
+      "itinerary": [
+        { "port": "Venice", "country": "Italy" },
+        { "port": "Split", "country": "Croatia" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Argostoli (Kefalonia)", "country": "Greece" },
+        { "port": "Dubrovnik", "country": "Croatia" },
+        { "port": "Venice", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 999,
+        "insidePerPerson": 649,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.ncl.com/cruise-ship/getaway"
+      },
+      "ship": {
+        "yearBuilt": 2014,
+        "yearRefurbished": 2022,
+        "tonnage": 145655,
+        "passengerCapacity": 3969,
+        "rating": 4.0
+      },
+      "reviews": {
+        "overallRating": 4.0,
+        "foodRating": 3.8,
+        "serviceRating": 3.9,
+        "cabinRating": 4.0,
+        "entertainmentRating": 4.3,
+        "valueRating": 3.9,
+        "totalReviews": 1387,
+        "highlights": [
+          "Freestyle dining concept — eat when you want, with whom you want",
+          "Argostoli (Kefalonia) is an off-the-beaten-path gem rarely visited",
+          "2022 refurbishment brought noticeably upgraded cabin furnishings"
+        ],
+        "concerns": [
+          "Popular specialty restaurants require early reservations or long waits",
+          "Pool deck gets very crowded on sea days in peak summer"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7234567",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=934"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.ncl.com/cruise-ship/getaway",
+        "https://www.cruisedirect.com/cruise-ship/norwegian-getaway"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "rci-odyssey-jul-2026",
+      "shipName": "Odyssey of the Seas",
+      "cruiseLine": "Royal Caribbean International",
+      "departureDate": "2026-07-26",
+      "returnDate": "2026-08-02",
+      "nights": 7,
+      "departurePort": "Rome (Civitavecchia), Italy",
+      "itinerary": [
+        { "port": "Rome (Civitavecchia)", "country": "Italy" },
+        { "port": "Naples", "country": "Italy" },
+        { "port": "Crete (Heraklion)", "country": "Greece" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1199,
+        "insidePerPerson": 749,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.royalcaribbean.com/cruise-ships/odyssey-of-the-seas"
+      },
+      "ship": {
+        "yearBuilt": 2021,
+        "yearRefurbished": null,
+        "tonnage": 169379,
+        "passengerCapacity": 4180,
+        "rating": 4.3
+      },
+      "reviews": {
+        "overallRating": 4.3,
+        "foodRating": 4.1,
+        "serviceRating": 4.2,
+        "cabinRating": 4.3,
+        "entertainmentRating": 4.5,
+        "valueRating": 4.0,
+        "totalReviews": 1102,
+        "highlights": [
+          "Sky Pad bungee trampoline and FlowRider surf simulator are crowd favorites",
+          "Crete stop adds a less-touristy Greek island rarely on Med itineraries",
+          "Two70 venue with robotic screens and acrobatic shows is world-class"
+        ],
+        "concerns": [
+          "Ship size means longer tender waits at tender ports like Santorini",
+          "Chops Grille steakhouse quality slightly below what Royal Caribbean used to deliver"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7891234",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1267"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.royalcaribbean.com/cruise-ships/odyssey-of-the-seas",
+        "https://www.cruisedirect.com/cruise-ship/odyssey-of-the-seas"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "celebrity-infinity-aug-2026",
+      "shipName": "Celebrity Infinity",
+      "cruiseLine": "Celebrity Cruises",
+      "departureDate": "2026-08-16",
+      "returnDate": "2026-08-25",
+      "nights": 9,
+      "departurePort": "Venice, Italy",
+      "itinerary": [
+        { "port": "Venice", "country": "Italy" },
+        { "port": "Dubrovnik", "country": "Croatia" },
+        { "port": "Corfu", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Istanbul", "country": "Turkey" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Venice", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1299,
+        "insidePerPerson": 849,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.celebritycruises.com/cruise-ship/celebrity-infinity"
+      },
+      "ship": {
+        "yearBuilt": 2001,
+        "yearRefurbished": 2019,
+        "tonnage": 91000,
+        "passengerCapacity": 2170,
+        "rating": 4.2
+      },
+      "reviews": {
+        "overallRating": 4.2,
+        "foodRating": 4.3,
+        "serviceRating": 4.4,
+        "cabinRating": 4.1,
+        "entertainmentRating": 3.9,
+        "valueRating": 4.0,
+        "totalReviews": 1089,
+        "highlights": [
+          "Istanbul overnight or extended stop creates a genuinely unique itinerary",
+          "Smaller ship size allows docking directly at ports where larger ships anchor",
+          "Celebrity's dining quality holds up exceptionally well across the fleet"
+        ],
+        "concerns": [
+          "Older ship — despite 2019 refurbishment, some public spaces feel dated",
+          "Entertainment options narrower than on newer Celebrity ships"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=6998712",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=312"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.celebritycruises.com/cruise-ship/celebrity-infinity",
+        "https://www.cruises.com/cruise-ship/celebrity-infinity-cruises.htm"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "msc-fantasia-jul-2026",
+      "shipName": "MSC Fantasia",
+      "cruiseLine": "MSC Cruises",
+      "departureDate": "2026-07-19",
+      "returnDate": "2026-07-27",
+      "nights": 8,
+      "departurePort": "Genoa, Italy",
+      "itinerary": [
+        { "port": "Genoa", "country": "Italy" },
+        { "port": "Naples", "country": "Italy" },
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Istanbul", "country": "Turkey" },
+        { "port": "Izmir (Ephesus)", "country": "Turkey" },
+        { "port": "Genoa", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 929,
+        "insidePerPerson": 589,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.cruisedirect.com/cruise-ship/msc-fantasia"
+      },
+      "ship": {
+        "yearBuilt": 2008,
+        "yearRefurbished": 2022,
+        "tonnage": 137936,
+        "passengerCapacity": 3959,
+        "rating": 3.9
+      },
+      "reviews": {
+        "overallRating": 3.9,
+        "foodRating": 3.7,
+        "serviceRating": 3.8,
+        "cabinRating": 3.9,
+        "entertainmentRating": 4.1,
+        "valueRating": 4.0,
+        "totalReviews": 1564,
+        "highlights": [
+          "Istanbul and Izmir back-to-back makes for an exceptional Turkey-focused itinerary",
+          "2022 refurbishment significantly improved cabin decor and public spaces",
+          "MSC Aurea spa is one of the best thermal spa complexes at sea"
+        ],
+        "concerns": [
+          "Food in the main dining room is unremarkable — specialty dining adds up quickly",
+          "Embarkation in Genoa can be chaotic — arrive early"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7341892",
+          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=742"
+        ]
+      },
+      "score": {
+        "total": 0,
+        "breakdown": {
+          "price": 0,
+          "food": 0,
+          "itinerary": 0,
+          "shipModernity": 0,
+          "ratings": 0,
+          "balconyValue": 0
+        },
+        "rank": 0,
+        "recommendation": ""
+      },
+      "lastUpdated": "2026-04-08T06:00:00Z",
+      "sourceUrls": [
+        "https://www.cruisedirect.com/cruise-ship/msc-fantasia",
+        "https://www.msccruises.com/cruise-rin/MSC-Fantasia"
+      ],
+      "status": "available"
+    }
+  ],
+  "metadata": {
+    "totalDeals": 8,
+    "averageScore": 0,
+    "priceRange": { "min": 0, "max": 0 },
+    "nextUpdate": "2026-04-08T09:00:00Z"
+  }
+}
