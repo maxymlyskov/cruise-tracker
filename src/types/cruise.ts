@@ -35,10 +35,15 @@ export interface FlightLeg {
   from: string;
   to: string;
   airlines: string[];
+  flightNumber?: string;
+  departureTime?: string;
+  arrivalTime?: string;
+  date?: string;
   duration: string;
   pricePerPerson: number;
   directAvailable: boolean;
   frequency: string;
+  notes?: string;
 }
 
 export interface FoodDetails {

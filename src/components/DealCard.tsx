@@ -468,26 +468,46 @@ export function DealCard({ deal }: DealCardProps) {
                     ~{formatPrice(deal.flights.totalPerPerson)}/pp ({formatPrice(deal.flights.totalForTwo)} for 2)
                   </span>
                 </div>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
-                  <div className="space-y-0.5">
-                    <p className="font-medium text-foreground">
-                      Outbound: {deal.flights.outbound.from} → {deal.flights.outbound.to}
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
+                  <div className="space-y-1 rounded-md bg-background/50 p-2">
+                    <p className="font-semibold text-foreground flex items-center gap-1.5">
+                      <span className="text-primary">→</span> {deal.flights.outbound.from} → {deal.flights.outbound.to}
                     </p>
+                    {deal.flights.outbound.date && (
+                      <p className="text-foreground font-medium">{deal.flights.outbound.date}</p>
+                    )}
+                    {deal.flights.outbound.departureTime && deal.flights.outbound.arrivalTime && (
+                      <p className="text-foreground">{deal.flights.outbound.departureTime} → {deal.flights.outbound.arrivalTime} local</p>
+                    )}
                     <p className="text-muted-foreground">
+                      {deal.flights.outbound.flightNumber && <span className="font-medium text-foreground">{deal.flights.outbound.flightNumber} · </span>}
                       {deal.flights.outbound.airlines.join(', ')} · {deal.flights.outbound.duration}
-                      {deal.flights.outbound.directAvailable && ' · Direct available'}
+                      {deal.flights.outbound.directAvailable && ' · Direct'}
                     </p>
-                    <p className="text-muted-foreground">~{formatPrice(deal.flights.outbound.pricePerPerson)}/pp · {deal.flights.outbound.frequency}</p>
+                    <p className="text-muted-foreground">~{formatPrice(deal.flights.outbound.pricePerPerson)}/pp</p>
+                    {deal.flights.outbound.notes && (
+                      <p className="text-[10px] text-muted-foreground/70 italic">{deal.flights.outbound.notes}</p>
+                    )}
                   </div>
-                  <div className="space-y-0.5">
-                    <p className="font-medium text-foreground">
-                      Return: {deal.flights.returnFlight.from} → {deal.flights.returnFlight.to}
+                  <div className="space-y-1 rounded-md bg-background/50 p-2">
+                    <p className="font-semibold text-foreground flex items-center gap-1.5">
+                      <span className="text-primary">←</span> {deal.flights.returnFlight.from} → {deal.flights.returnFlight.to}
                     </p>
+                    {deal.flights.returnFlight.date && (
+                      <p className="text-foreground font-medium">{deal.flights.returnFlight.date}</p>
+                    )}
+                    {deal.flights.returnFlight.departureTime && deal.flights.returnFlight.arrivalTime && (
+                      <p className="text-foreground">{deal.flights.returnFlight.departureTime} → {deal.flights.returnFlight.arrivalTime} local</p>
+                    )}
                     <p className="text-muted-foreground">
+                      {deal.flights.returnFlight.flightNumber && <span className="font-medium text-foreground">{deal.flights.returnFlight.flightNumber} · </span>}
                       {deal.flights.returnFlight.airlines.join(', ')} · {deal.flights.returnFlight.duration}
-                      {deal.flights.returnFlight.directAvailable && ' · Direct available'}
+                      {deal.flights.returnFlight.directAvailable && ' · Direct'}
                     </p>
-                    <p className="text-muted-foreground">~{formatPrice(deal.flights.returnFlight.pricePerPerson)}/pp · {deal.flights.returnFlight.frequency}</p>
+                    <p className="text-muted-foreground">~{formatPrice(deal.flights.returnFlight.pricePerPerson)}/pp</p>
+                    {deal.flights.returnFlight.notes && (
+                      <p className="text-[10px] text-muted-foreground/70 italic">{deal.flights.returnFlight.notes}</p>
+                    )}
                   </div>
                 </div>
                 <a
