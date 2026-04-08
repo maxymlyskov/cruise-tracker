@@ -1,309 +1,162 @@
 {
-  "lastFetched": "2026-04-08T09:00:00Z",
+  "lastFetched": "2026-04-08T09:30:00Z",
   "deals": [
     {
-      "id": "msc-fantasia-jul-2026",
-      "shipName": "MSC Fantasia",
-      "cruiseLine": "MSC Cruises",
-      "imageUrl": "https://www.cruisemapper.com/images/ships/736-large-6bc24fc1ab650b25b4114e93a98f1eba.jpg",
+      "id": "explorer-seas-aug-2026",
+      "shipName": "Explorer of the Seas",
+      "cruiseLine": "Royal Caribbean",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/687-large-7f5d04d189dfb634e6a85bb9d9adf21e.jpg",
       "images": [
-        "https://www.cruisemapper.com/images/ships/736-large-6bc24fc1ab650b25b4114e93a98f1eba.jpg",
-        "https://www.cruisemapper.com/images/ships/736-b6d98f685845.jpg",
-        "https://www.cruisemapper.com/images/ships/736-45542c506505.jpg"
+        "https://www.cruisemapper.com/images/ships/687-large-7f5d04d189dfb634e6a85bb9d9adf21e.jpg",
+        "https://www.cruisemapper.com/images/ships/687-0900e0f9e552.jpg",
+        "https://www.cruisemapper.com/images/ships/687-6737e025ec51.jpg"
       ],
-      "departureDate": "2026-07-19",
-      "returnDate": "2026-07-27",
-      "nights": 8,
-      "departurePort": "Genoa, Italy",
-      "itinerary": [
-        { "port": "Genoa", "country": "Italy" },
-        { "port": "Naples", "country": "Italy" },
-        { "port": "Piraeus (Athens)", "country": "Greece" },
-        { "port": "Istanbul", "country": "Turkey" },
-        { "port": "Izmir (Ephesus)", "country": "Turkey" },
-        { "port": "Genoa", "country": "Italy" }
-      ],
-      "pricing": {
-        "balconyPerPerson": 1050,
-        "insidePerPerson": 649,
-        "currency": "USD",
-        "originalPrice": null,
-        "bookingUrl": "https://www.cruisedirect.com/cruise-ship/msc-fantasia"
-      },
-      "ship": {
-        "yearBuilt": 2008,
-        "yearRefurbished": 2023,
-        "tonnage": 137936,
-        "passengerCapacity": 3274,
-        "crewCount": 1313,
-        "rating": 3.2
-      },
-      "reviews": {
-        "overallRating": 3.2,
-        "foodRating": 3.0,
-        "serviceRating": 3.3,
-        "cabinRating": 3.4,
-        "entertainmentRating": 3.5,
-        "valueRating": 3.6,
-        "totalReviews": 490,
-        "concerns": [
-          "Buffet barely edible, bacon was a disgrace — undignified scrum for food",
-          "Bedbugs found in cabin — completely unacceptable on any ship",
-          "Extremely crowded, constant fighting for seats at buffet and pool"
-        ],
-        "highlights": [
-          "Good product at a good price — ship in great condition despite age",
-          "Yacht Club service amazing — excellent food, wine flowed freely"
-        ],
-        "evidenceUrls": [
-          "https://www.cruisecritic.com/cruise/msc/msc-fantasia/reviews",
-          "https://www.cruisemapper.com/ships/MSC-Fantasia-736"
-        ]
-      },
-      "foodDetails": {
-        "mainDiningHighlights": ["Red Velvet Restaurant — Italian-inspired set menu", "Il Cerchio D'Oro — panoramic 766-seat Mediterranean dining"],
-        "specialtyRestaurants": ["El Sombrero Tex Mex", "L'Etoile (Yacht Club)", "Wine Bar with tapas"],
-        "menuStyle": "Italian-focused formal dining + buffet",
-        "dietaryOptions": ["Vegetarian", "Gluten-free"],
-        "foodScore": 5,
-        "comparisonNotes": "Yacht Club dining is excellent but costs extra. Main buffet widely criticized as crowded and repetitive. Main restaurant gets better marks than buffet."
-      },
-      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
-      "sourceUrls": [
-        "https://www.cruisemapper.com/ships/MSC-Fantasia-736",
-        "https://www.cruisecritic.com/cruise/msc/msc-fantasia/reviews"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "costa-fascinosa-aug-2026",
-      "shipName": "Costa Fascinosa",
-      "cruiseLine": "Costa Cruises",
-      "imageUrl": "https://www.cruisemapper.com/images/ships/590-large-08b255a5d42b89b0585260b6f2360bdd.jpg",
-      "images": [
-        "https://www.cruisemapper.com/images/ships/590-large-08b255a5d42b89b0585260b6f2360bdd.jpg",
-        "https://www.cruisemapper.com/images/ships/590-49afee002fa03577140a1fe64450e828.jpg",
-        "https://www.cruisemapper.com/images/ships/590-ccd01c196d8b1419acab9d56c72b4e58.jpg"
-      ],
-      "departureDate": "2026-08-02",
-      "returnDate": "2026-08-09",
+      "departureDate": "2026-08-29",
+      "returnDate": "2026-09-05",
       "nights": 7,
-      "departurePort": "Istanbul, Turkey",
+      "departurePort": "Ravenna (Venice), Italy",
       "itinerary": [
-        { "port": "Istanbul", "country": "Turkey" },
-        { "port": "Mykonos", "country": "Greece" },
-        { "port": "Piraeus (Athens)", "country": "Greece" },
-        { "port": "Dubrovnik", "country": "Croatia" },
-        { "port": "Bari", "country": "Italy" },
-        { "port": "Venice", "country": "Italy" }
-      ],
-      "pricing": {
-        "balconyPerPerson": 900,
-        "insidePerPerson": 559,
-        "currency": "USD",
-        "originalPrice": 1049,
-        "bookingUrl": "https://www.cruisedirect.com/cruise-ship/costa-fascinosa"
-      },
-      "ship": {
-        "yearBuilt": 2012,
-        "yearRefurbished": 2022,
-        "tonnage": 113321,
-        "passengerCapacity": 3780,
-        "crewCount": 1100,
-        "rating": 3.0
-      },
-      "reviews": {
-        "overallRating": 3.0,
-        "foodRating": 2.8,
-        "serviceRating": 2.5,
-        "cabinRating": 3.2,
-        "entertainmentRating": 3.5,
-        "valueRating": 3.0,
-        "totalReviews": 15,
-        "concerns": [
-          "Food is airline quality or less — always the same, no quality ingredients",
-          "All staff very rude, no smile, service terrible — constant unwanted charges",
-          "Buffet made Hometown Buffet seem like a 5-star restaurant"
-        ],
-        "highlights": [
-          "Main dining Il Gattopardo was excellent — great food quality",
-          "Entertainment amazing, ports of call absolutely amazing for families"
-        ],
-        "evidenceUrls": [
-          "https://www.cruisecritic.com/cruise/costa/costa-fascinosa/reviews",
-          "https://www.cruisemapper.com/ships/Costa-Fascinosa-590"
-        ]
-      },
-      "foodDetails": {
-        "mainDiningHighlights": ["Il Gattopardo — highly praised main restaurant", "Ristorante Otto e Mezzo — fixed seating formal dining"],
-        "specialtyRestaurants": ["Archipelago (steaks/seafood)", "Club Fascinosa (steakhouse)", "Sushino", "Teppanyaki", "Pizzeria Pummid'Oro"],
-        "menuStyle": "Italian casual dining + specialty venues",
-        "dietaryOptions": ["Vegetarian", "Gluten-free"],
-        "foodScore": 4,
-        "comparisonNotes": "Very polarized — main dining Il Gattopardo gets good marks but buffet is heavily criticized. Only 15 CruiseCritic reviews — low popularity. Staff rudeness and hidden charges are recurring complaints."
-      },
-      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
-      "sourceUrls": [
-        "https://www.cruisemapper.com/ships/Costa-Fascinosa-590",
-        "https://www.cruisecritic.com/cruise/costa/costa-fascinosa/reviews"
-      ],
-      "status": "price_drop"
-    },
-    {
-      "id": "norwegian-getaway-aug-2026",
-      "shipName": "Norwegian Getaway",
-      "cruiseLine": "Norwegian Cruise Line",
-      "imageUrl": "https://www.cruisemapper.com/images/ships/793-large-1d8a6620f5616704e0fa886ca8d702f2.jpg",
-      "images": [
-        "https://www.cruisemapper.com/images/ships/793-large-1d8a6620f5616704e0fa886ca8d702f2.jpg",
-        "https://www.cruisemapper.com/images/ships/793-dfcf65904ce1.jpg"
-      ],
-      "departureDate": "2026-08-09",
-      "returnDate": "2026-08-16",
-      "nights": 7,
-      "departurePort": "Venice, Italy",
-      "itinerary": [
-        { "port": "Venice", "country": "Italy" },
-        { "port": "Split", "country": "Croatia" },
+        { "port": "Ravenna", "country": "Italy" },
         { "port": "Santorini", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" },
         { "port": "Mykonos", "country": "Greece" },
         { "port": "Argostoli", "country": "Greece" },
-        { "port": "Dubrovnik", "country": "Croatia" },
-        { "port": "Venice", "country": "Italy" }
+        { "port": "Ravenna", "country": "Italy" }
       ],
       "pricing": {
-        "balconyPerPerson": 1150,
-        "insidePerPerson": 749,
+        "balconyPerPerson": 1328,
+        "insidePerPerson": 879,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.ncl.com/cruise-ships/norwegian-getaway"
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_explorer-of-the-seas_8-29-2026.html"
       },
       "ship": {
-        "yearBuilt": 2014,
-        "yearRefurbished": 2024,
-        "tonnage": 145655,
-        "passengerCapacity": 3963,
-        "crewCount": 1646,
-        "rating": 3.6
+        "yearBuilt": 2000,
+        "yearRefurbished": 2025,
+        "tonnage": 137308,
+        "passengerCapacity": 3114,
+        "crewCount": 1185,
+        "rating": 3.8
       },
       "reviews": {
-        "overallRating": 3.6,
+        "overallRating": 3.8,
         "foodRating": 3.5,
-        "serviceRating": 3.7,
-        "cabinRating": 3.5,
-        "entertainmentRating": 3.8,
-        "valueRating": 3.4,
-        "totalReviews": 3437,
+        "serviceRating": 3.9,
+        "cabinRating": 3.6,
+        "entertainmentRating": 4.0,
+        "valueRating": 3.8,
+        "totalReviews": 450,
         "concerns": [
-          "Constantly improperly charged — drink package keeps getting turned off",
-          "Pool area small and extremely crowded, can't find a deck chair anywhere",
-          "Ship massively overcrowded — fighting for space at buffet and everywhere"
+          "Ship is older and shows its age despite 2025 Royal Amplified refurb",
+          "Windjammer buffet crowded and food quality inconsistent",
+          "Pool deck too small for passenger count on sea days"
         ],
         "highlights": [
-          "Every crew member welcoming, food delicious, trip ran smoothly",
-          "NCL perfected solo cruising — Studio cabins designed for one person",
-          "Freestyle Dining means eat where and when you want — no fixed times"
+          "2025 refurb brought modern updates — feels fresh and clean",
+          "Best value Royal Caribbean ship for Mediterranean — great price point",
+          "Excellent Greek Islands itinerary from Venice area"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/cruise/norwegian-ncl/norwegian-getaway/reviews",
-          "https://www.cruisemapper.com/ships/Norwegian-Getaway-793"
+          "https://www.cruisecritic.com/cruise/royal-caribbean/explorer-of-the-seas/reviews",
+          "https://www.cruisemapper.com/ships/Explorer-Of-The-Seas-687"
         ]
       },
       "foodDetails": {
-        "mainDiningHighlights": ["The Manhattan Room — elegant main dining", "Savor + third rotating dining room — modern menus"],
-        "specialtyRestaurants": ["Cagney's Steakhouse", "Ocean Blue (seafood)", "La Cucina (Italian)", "Le Bistro (French)", "Teppanyaki", "Moderno Churrascaria", "Wasabi"],
-        "menuStyle": "Freestyle Dining — 15+ venues, no fixed times",
+        "mainDiningHighlights": ["Main Dining Room — two-deck traditional dining", "Windjammer Marketplace — buffet with international stations"],
+        "specialtyRestaurants": ["Chops Grille (steakhouse)", "Giovanni's Table (Italian)", "Izumi (Japanese)", "Playmakers Sports Bar"],
+        "menuStyle": "Traditional fixed-time dining + casual venues",
         "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
         "foodScore": 6,
-        "comparisonNotes": "Most specialty restaurants of all 8 ships (15+ venues). Complimentary food gets average marks but specialty breadth is impressive. Overcrowding is the dominant complaint, not food quality."
+        "comparisonNotes": "Standard Royal Caribbean dining — reliable but not exceptional. Refurb added new casual venues. Chops Grille is the standout specialty option."
       },
       "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
+      "lastUpdated": "2026-04-08T09:30:00Z",
       "sourceUrls": [
-        "https://www.cruisemapper.com/ships/Norwegian-Getaway-793",
-        "https://www.cruisecritic.com/cruise/norwegian-ncl/norwegian-getaway/reviews"
+        "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_explorer-of-the-seas_8-29-2026.html",
+        "https://www.cruisemapper.com/ships/Explorer-Of-The-Seas-687"
       ],
       "status": "new"
     },
     {
-      "id": "msc-musica-jul-2026",
-      "shipName": "MSC Musica",
-      "cruiseLine": "MSC Cruises",
-      "imageUrl": "https://www.cruisemapper.com/images/ships/628-large-42e77b63637ab381e8be5f8318cc28a2.jpg",
+      "id": "norwegian-pearl-jul5-2026",
+      "shipName": "Norwegian Pearl",
+      "cruiseLine": "Norwegian Cruise Line",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/693-large-53e3a7161e428b65688f14b84d61c610.jpg",
       "images": [
-        "https://www.cruisemapper.com/images/ships/628-large-42e77b63637ab381e8be5f8318cc28a2.jpg",
-        "https://www.cruisemapper.com/images/ships/628-5cbed0c8e845.jpg"
+        "https://www.cruisemapper.com/images/ships/693-large-53e3a7161e428b65688f14b84d61c610.jpg",
+        "https://www.cruisemapper.com/images/ships/693-8fd8559408f6.jpg",
+        "https://www.cruisemapper.com/images/ships/693-9c22af205853.jpg"
       ],
-      "departureDate": "2026-07-11",
-      "returnDate": "2026-07-18",
+      "departureDate": "2026-07-05",
+      "returnDate": "2026-07-12",
       "nights": 7,
-      "departurePort": "Venice, Italy",
+      "departurePort": "Piraeus (Athens), Greece",
       "itinerary": [
-        { "port": "Venice", "country": "Italy" },
-        { "port": "Bari", "country": "Italy" },
-        { "port": "Katakolon", "country": "Greece" },
-        { "port": "Santorini", "country": "Greece" },
         { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Katakolon", "country": "Greece" },
+        { "port": "Corfu", "country": "Greece" },
+        { "port": "Kotor", "country": "Montenegro" },
         { "port": "Dubrovnik", "country": "Croatia" },
-        { "port": "Venice", "country": "Italy" }
+        { "port": "Koper", "country": "Slovenia" },
+        { "port": "Ravenna", "country": "Italy" }
       ],
       "pricing": {
-        "balconyPerPerson": 950,
-        "insidePerPerson": 579,
+        "balconyPerPerson": 1379,
+        "insidePerPerson": 929,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.cruisedirect.com/cruise-ship/msc-musica"
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_norwegian-pearl_7-5-2026.html"
       },
       "ship": {
         "yearBuilt": 2006,
-        "yearRefurbished": 2019,
-        "tonnage": 92409,
-        "passengerCapacity": 2550,
-        "crewCount": 987,
-        "rating": 3.6
+        "yearRefurbished": 2025,
+        "tonnage": 93530,
+        "passengerCapacity": 2394,
+        "crewCount": 1072,
+        "rating": 3.5
       },
       "reviews": {
-        "overallRating": 3.6,
-        "foodRating": 3.2,
-        "serviceRating": 3.4,
-        "cabinRating": 4.0,
+        "overallRating": 3.5,
+        "foodRating": 3.4,
+        "serviceRating": 3.6,
+        "cabinRating": 3.5,
         "entertainmentRating": 3.3,
-        "valueRating": 3.8,
-        "totalReviews": 659,
+        "valueRating": 3.5,
+        "totalReviews": 890,
         "concerns": [
-          "Worst food ever — no decent activities or shows, illness concerns",
-          "Too many people, not enough sun deck beds and restaurant tables",
-          "Ship in bad shape, not enough staff, food in buffet terrible overall"
+          "Ship is smaller and older — fewer amenities than newer NCL ships",
+          "Freestyle dining means long waits at popular restaurants during peak hours",
+          "Entertainment options limited compared to larger NCL ships"
         ],
         "highlights": [
-          "Exceptional value for money and a great trip overall",
-          "Very well organized boarding process, advance pricing package excellent"
+          "6 ports in 7 nights — incredible port-heavy itinerary from Athens to Venice",
+          "Full-size bowling alley — first at sea, unique to this ship",
+          "Freestyle Dining means no fixed schedule — eat when and where you want"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/cruise/msc/msc-musica/reviews",
-          "https://www.cruisemapper.com/ships/MSC-Musica-628"
+          "https://www.cruisecritic.com/cruise/norwegian-ncl/norwegian-pearl/reviews",
+          "https://www.cruisemapper.com/ships/Norwegian-Pearl-693"
         ]
       },
       "foodDetails": {
-        "mainDiningHighlights": ["L'Oleandro — main dining, Italian/international, 720 seats", "Il Giardino — à la carte with panoramic views, 250 seats"],
-        "specialtyRestaurants": ["Kaito Sushi Bar", "Le Maxim's (fine dining)"],
-        "menuStyle": "Traditional buffet + formal dining room",
-        "dietaryOptions": ["Vegetarian", "Gluten-free"],
-        "foodScore": 4,
-        "comparisonNotes": "Buffet widely criticized as terrible and repetitive. Main dining room gets better reviews. Only 2 specialty restaurants — limited options. Best value for money of MSC fleet."
+        "mainDiningHighlights": ["Summer Palace — main dining room", "Indigo — second main dining"],
+        "specialtyRestaurants": ["Cagney's Steakhouse", "Le Bistro (French)", "La Cucina (Italian)", "Teppanyaki", "Lotus Garden (Asian)"],
+        "menuStyle": "Freestyle Dining — no fixed times, multiple venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 6,
+        "comparisonNotes": "Smaller ship means fewer specialty options than Norwegian Getaway, but Cagney's and Le Bistro are consistently praised. Freestyle Dining is a big plus — no rigid schedules."
       },
       "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
+      "lastUpdated": "2026-04-08T09:30:00Z",
       "sourceUrls": [
-        "https://www.cruisemapper.com/ships/MSC-Musica-628",
-        "https://www.cruisecritic.com/cruise/msc/msc-musica/reviews"
+        "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_norwegian-pearl_7-5-2026.html",
+        "https://www.cruisemapper.com/ships/Norwegian-Pearl-693"
       ],
-      "status": "available"
+      "status": "new"
     },
     {
-      "id": "celebrity-infinity-aug-2026",
+      "id": "celebrity-infinity-jul11-2026",
       "shipName": "Celebrity Infinity",
       "cruiseLine": "Celebrity Cruises",
       "imageUrl": "https://www.cruisemapper.com/images/ships/658-large-2f37d10131f2a483a8dd005b3d14b0d9.jpg",
@@ -311,25 +164,25 @@
         "https://www.cruisemapper.com/images/ships/658-large-2f37d10131f2a483a8dd005b3d14b0d9.jpg",
         "https://www.cruisemapper.com/images/ships/658-4af65e9cc556082a4c228626ef7ccf9a.jpg"
       ],
-      "departureDate": "2026-08-16",
-      "returnDate": "2026-08-25",
-      "nights": 9,
-      "departurePort": "Venice, Italy",
+      "departureDate": "2026-07-11",
+      "returnDate": "2026-07-18",
+      "nights": 7,
+      "departurePort": "Piraeus (Athens), Greece",
       "itinerary": [
-        { "port": "Venice", "country": "Italy" },
-        { "port": "Dubrovnik", "country": "Croatia" },
-        { "port": "Corfu", "country": "Greece" },
         { "port": "Piraeus (Athens)", "country": "Greece" },
-        { "port": "Istanbul", "country": "Turkey" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Rhodes", "country": "Greece" },
+        { "port": "Kusadasi", "country": "Turkey" },
         { "port": "Mykonos", "country": "Greece" },
-        { "port": "Venice", "country": "Italy" }
+        { "port": "Thessaloniki", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" }
       ],
       "pricing": {
-        "balconyPerPerson": 1450,
-        "insidePerPerson": 899,
+        "balconyPerPerson": 1416,
+        "insidePerPerson": 1024,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.celebritycruises.com/cruise-ships/celebrity-infinity"
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-best-of-greece-cruise_celebrity-infinity_7-11-2026.html"
       },
       "ship": {
         "yearBuilt": 2001,
@@ -353,9 +206,9 @@
           "Total loss of power at sea — no hot water, non-flushing toilets"
         ],
         "highlights": [
-          "Fantastic time — couldn't fault it, staff amazing and goes above and beyond",
-          "Smaller guest count of 2,200 is a big advantage — less crowding",
-          "Port-heavy itinerary excellent, Venice to Istanbul is unique route"
+          "Includes Turkey (Kusadasi/Ephesus) — only cruise in budget with Turkey stop",
+          "Smaller guest count of 2,170 — less crowding than mega-ships",
+          "Staff amazing, goes above and beyond — Celebrity service standard"
         ],
         "evidenceUrls": [
           "https://www.cruisecritic.com/cruise/celebrity/celebrity-infinity/reviews",
@@ -364,240 +217,398 @@
       },
       "foodDetails": {
         "mainDiningHighlights": ["Trellis Restaurant — main dining, reliable quality", "Bistro on Five — crepes, paninis, salads (complimentary)"],
-        "specialtyRestaurants": ["Tuscan Grille (~$70/pp)", "Qsine", "Le Petit Chef", "Sushi (hidden behind Cellar Masters)", "Blu (AquaClass)", "Luminae (suite-only)"],
+        "specialtyRestaurants": ["Tuscan Grille (~$70/pp)", "Qsine", "Le Petit Chef", "Sushi", "Blu (AquaClass)", "Luminae (suite-only)"],
         "menuStyle": "Celebrity signature dining + specialty venues",
         "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
         "foodScore": 7,
-        "comparisonNotes": "Solid mid-range food quality. Main dining reliable but occasionally inconsistent. Tuscan Grille expensive at ~$70/pp with mixed reviews. Ship is older but 2024 refit helped. Smaller guest count means better dining experience."
+        "comparisonNotes": "Solid mid-range. Main dining reliable but occasionally inconsistent. Tuscan Grille expensive at ~$70/pp. 2024 refit helped. Smaller ship means better dining experience than mega-ships."
       },
       "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
+      "lastUpdated": "2026-04-08T09:30:00Z",
       "sourceUrls": [
-        "https://www.cruisemapper.com/ships/Celebrity-Infinity-658",
-        "https://www.cruisecritic.com/cruise/celebrity/celebrity-infinity/reviews"
+        "https://www.icruise.com/itineraries/7-night-best-of-greece-cruise_celebrity-infinity_7-11-2026.html",
+        "https://www.cruisemapper.com/ships/Celebrity-Infinity-658"
       ],
       "status": "available"
     },
     {
-      "id": "msc-world-europa-jul-2026",
-      "shipName": "MSC World Europa",
-      "cruiseLine": "MSC Cruises",
-      "imageUrl": "https://www.cruisemapper.com/images/ships/2183-e9681865a61.jpg",
+      "id": "explorer-seas-jul4-2026",
+      "shipName": "Explorer of the Seas",
+      "cruiseLine": "Royal Caribbean",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/687-large-7f5d04d189dfb634e6a85bb9d9adf21e.jpg",
       "images": [
-        "https://www.cruisemapper.com/images/ships/2183-e9681865a61.jpg",
-        "https://www.cruisemapper.com/images/ships/2183-3afb99e1303.jpg",
-        "https://www.cruisemapper.com/images/ships/2183-54f9d4cf585.jpg"
+        "https://www.cruisemapper.com/images/ships/687-large-7f5d04d189dfb634e6a85bb9d9adf21e.jpg",
+        "https://www.cruisemapper.com/images/ships/687-6737e025ec51.jpg"
       ],
-      "departureDate": "2026-07-05",
-      "returnDate": "2026-07-12",
+      "departureDate": "2026-07-04",
+      "returnDate": "2026-07-11",
+      "nights": 7,
+      "departurePort": "Ravenna (Venice), Italy",
+      "itinerary": [
+        { "port": "Ravenna", "country": "Italy" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Argostoli", "country": "Greece" },
+        { "port": "Ravenna", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1418,
+        "insidePerPerson": 985,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_explorer-of-the-seas_7-4-2026.html"
+      },
+      "ship": {
+        "yearBuilt": 2000,
+        "yearRefurbished": 2025,
+        "tonnage": 137308,
+        "passengerCapacity": 3114,
+        "crewCount": 1185,
+        "rating": 3.8
+      },
+      "reviews": {
+        "overallRating": 3.8,
+        "foodRating": 3.5,
+        "serviceRating": 3.9,
+        "cabinRating": 3.6,
+        "entertainmentRating": 4.0,
+        "valueRating": 3.8,
+        "totalReviews": 450,
+        "concerns": [
+          "Ship is older and shows its age despite refurbishment",
+          "Windjammer buffet crowded and food quality inconsistent",
+          "Earlier July date means higher demand — book early"
+        ],
+        "highlights": [
+          "Royal Amplified 2025 refurb — modern feel with updated public spaces",
+          "Roundtrip from Venice area — convenient for European travelers",
+          "Santorini + Mykonos + Athens in one week"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/cruise/royal-caribbean/explorer-of-the-seas/reviews",
+          "https://www.cruisemapper.com/ships/Explorer-Of-The-Seas-687"
+        ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Main Dining Room — two-deck formal dining", "Windjammer Marketplace — international buffet"],
+        "specialtyRestaurants": ["Chops Grille (steakhouse)", "Giovanni's Table (Italian)", "Izumi (Japanese)", "Playmakers Sports Bar"],
+        "menuStyle": "Traditional dining + casual specialty venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
+        "foodScore": 6,
+        "comparisonNotes": "Same ship as the Aug 29 sailing but earlier in summer. Standard Royal Caribbean dining quality."
+      },
+      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
+      "lastUpdated": "2026-04-08T09:30:00Z",
+      "sourceUrls": [
+        "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_explorer-of-the-seas_7-4-2026.html",
+        "https://www.cruisemapper.com/ships/Explorer-Of-The-Seas-687"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "norwegian-pearl-jul19-2026",
+      "shipName": "Norwegian Pearl",
+      "cruiseLine": "Norwegian Cruise Line",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/693-large-53e3a7161e428b65688f14b84d61c610.jpg",
+      "images": [
+        "https://www.cruisemapper.com/images/ships/693-large-53e3a7161e428b65688f14b84d61c610.jpg",
+        "https://www.cruisemapper.com/images/ships/693-9c22af205853.jpg"
+      ],
+      "departureDate": "2026-07-19",
+      "returnDate": "2026-07-26",
       "nights": 7,
       "departurePort": "Piraeus (Athens), Greece",
       "itinerary": [
         { "port": "Piraeus (Athens)", "country": "Greece" },
-        { "port": "Mykonos", "country": "Greece" },
         { "port": "Santorini", "country": "Greece" },
-        { "port": "Kusadasi", "country": "Turkey" },
-        { "port": "Istanbul", "country": "Turkey" },
-        { "port": "Piraeus (Athens)", "country": "Greece" }
+        { "port": "Katakolon", "country": "Greece" },
+        { "port": "Corfu", "country": "Greece" },
+        { "port": "Kotor", "country": "Montenegro" },
+        { "port": "Split", "country": "Croatia" },
+        { "port": "Koper", "country": "Slovenia" },
+        { "port": "Ravenna", "country": "Italy" }
       ],
       "pricing": {
-        "balconyPerPerson": 1250,
-        "insidePerPerson": 799,
+        "balconyPerPerson": 1429,
+        "insidePerPerson": 949,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.cruisedirect.com/cruise-ship/msc-world-europa"
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_norwegian-pearl_7-19-2026.html"
       },
       "ship": {
-        "yearBuilt": 2022,
-        "yearRefurbished": null,
-        "tonnage": 215863,
-        "passengerCapacity": 6762,
-        "crewCount": 2138,
-        "rating": 3.0
+        "yearBuilt": 2006,
+        "yearRefurbished": 2025,
+        "tonnage": 93530,
+        "passengerCapacity": 2394,
+        "crewCount": 1072,
+        "rating": 3.5
       },
       "reviews": {
-        "overallRating": 3.0,
-        "foodRating": 2.8,
-        "serviceRating": 3.2,
+        "overallRating": 3.5,
+        "foodRating": 3.4,
+        "serviceRating": 3.6,
         "cabinRating": 3.5,
-        "entertainmentRating": 3.8,
-        "valueRating": 2.8,
-        "totalReviews": 117,
+        "entertainmentRating": 3.3,
+        "valueRating": 3.5,
+        "totalReviews": 890,
         "concerns": [
-          "Buffet and seated dining food very bland for a Mediterranean cruise",
-          "Casino smoke on 7th floor disgusting — smell took 2 days to leave clothes",
-          "Vegan corner was covered in cured meats — supervisor removed vegan sign as 'solution'"
+          "Smaller ship — fewer onboard amenities and pool space",
+          "Dining waits can be long during peak hours with Freestyle system",
+          "Older ship design — cabins feel dated compared to newer NCL fleet"
         ],
         "highlights": [
-          "Modern, super clean, beautiful giant ship — crew constantly working to keep it spotless",
-          "Entertainment in the evening was excellent, staff friendly with big smiles"
+          "7 ports in 7 nights including Split and Kotor — incredible diversity",
+          "Athens to Venice route covers Greece, Montenegro, Croatia, Slovenia, Italy",
+          "Freestyle Dining — complete flexibility on when and where to eat"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/cruise/msc/msc-world-europa/reviews",
-          "https://www.cruisemapper.com/ships/MSC-World-Europa-2183"
+          "https://www.cruisecritic.com/cruise/norwegian-ncl/norwegian-pearl/reviews",
+          "https://www.cruisemapper.com/ships/Norwegian-Pearl-693"
         ]
       },
       "foodDetails": {
-        "mainDiningHighlights": ["15 dining venues total — largest MSC selection", "Chef's Garden Kitchen — uses onboard hydroponic garden, Wagyu beef"],
-        "specialtyRestaurants": ["The Butcher's Cut (steakhouse)", "Kaito Teppanyaki & Sushi", "Hola! Tacos & Cantina", "La Pescaderia (fish market)", "Jean Philippe Chocolat & Cafe"],
-        "menuStyle": "International buffet + 15 specialty/casual venues",
-        "dietaryOptions": ["Vegetarian", "Gluten-free"],
-        "foodScore": 5,
-        "comparisonNotes": "Newest MSC ship with most dining venues, but food reviews are notably mixed. Bland buffet food is recurring complaint. Specialty restaurants better but cost extra. Dietary needs (vegan, allergies) poorly handled per multiple reviewers."
+        "mainDiningHighlights": ["Summer Palace — main dining", "Indigo — second main dining room"],
+        "specialtyRestaurants": ["Cagney's Steakhouse", "Le Bistro (French)", "La Cucina (Italian)", "Teppanyaki", "Lotus Garden"],
+        "menuStyle": "Freestyle Dining — no fixed times",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 6,
+        "comparisonNotes": "Same ship as Jul 5 sailing but different itinerary — adds Split and drops Dubrovnik. Good variety of specialty restaurants for a mid-size ship."
       },
       "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
+      "lastUpdated": "2026-04-08T09:30:00Z",
       "sourceUrls": [
-        "https://www.cruisemapper.com/ships/MSC-World-Europa-2183",
-        "https://www.cruisecritic.com/cruise/msc/msc-world-europa/reviews"
+        "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_norwegian-pearl_7-19-2026.html",
+        "https://www.cruisemapper.com/ships/Norwegian-Pearl-693"
       ],
       "status": "available"
     },
     {
-      "id": "odyssey-seas-jul-2026",
-      "shipName": "Odyssey of the Seas",
-      "cruiseLine": "Royal Caribbean",
-      "imageUrl": "https://www.cruisemapper.com/images/ships/1862-6403cb2e42c.jpg",
+      "id": "celebrity-infinity-jul4-2026",
+      "shipName": "Celebrity Infinity",
+      "cruiseLine": "Celebrity Cruises",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/658-large-2f37d10131f2a483a8dd005b3d14b0d9.jpg",
       "images": [
-        "https://www.cruisemapper.com/images/ships/1862-6403cb2e42c.jpg"
+        "https://www.cruisemapper.com/images/ships/658-large-2f37d10131f2a483a8dd005b3d14b0d9.jpg",
+        "https://www.cruisemapper.com/images/ships/658-4af65e9cc556082a4c228626ef7ccf9a.jpg"
+      ],
+      "departureDate": "2026-07-04",
+      "returnDate": "2026-07-11",
+      "nights": 7,
+      "departurePort": "Piraeus (Athens), Greece",
+      "itinerary": [
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Rhodes", "country": "Greece" },
+        { "port": "Kusadasi", "country": "Turkey" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Hydra", "country": "Greece" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1563,
+        "insidePerPerson": 1024,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-best-of-greece-cruise_celebrity-infinity_7-4-2026.html"
+      },
+      "ship": {
+        "yearBuilt": 2001,
+        "yearRefurbished": 2024,
+        "tonnage": 90940,
+        "passengerCapacity": 2170,
+        "crewCount": 999,
+        "rating": 3.8
+      },
+      "reviews": {
+        "overallRating": 3.8,
+        "foodRating": 3.9,
+        "serviceRating": 4.0,
+        "cabinRating": 3.8,
+        "entertainmentRating": 3.5,
+        "valueRating": 3.7,
+        "totalReviews": 1758,
+        "concerns": [
+          "Dining room service reliably bad — missed orders frequently",
+          "Ship looks and feels tired — cabin cramped and dated",
+          "Power outage incidents reported — no hot water, toilets not flushing"
+        ],
+        "highlights": [
+          "Includes Kusadasi (Turkey) + Hydra — unique ports not on other itineraries",
+          "Celebrity service standard — staff goes above and beyond",
+          "Only 2,170 guests — intimate feel compared to 5,000+ mega-ships"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-infinity/reviews",
+          "https://www.cruisemapper.com/ships/Celebrity-Infinity-658"
+        ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Trellis Restaurant — main dining", "Bistro on Five — complimentary crepes and paninis"],
+        "specialtyRestaurants": ["Tuscan Grille (~$70/pp)", "Qsine", "Le Petit Chef", "Sushi", "Blu (AquaClass)", "Luminae (suite-only)"],
+        "menuStyle": "Celebrity signature dining + specialty venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
+        "foodScore": 7,
+        "comparisonNotes": "Same ship as Jul 11 sailing. Different route adds Hydra (car-free island). Celebrity food quality is consistent — best mainstream food after Celebrity Apex."
+      },
+      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
+      "lastUpdated": "2026-04-08T09:30:00Z",
+      "sourceUrls": [
+        "https://www.icruise.com/itineraries/7-night-best-of-greece-cruise_celebrity-infinity_7-4-2026.html",
+        "https://www.cruisemapper.com/ships/Celebrity-Infinity-658"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "celebrity-infinity-aug15-2026",
+      "shipName": "Celebrity Infinity",
+      "cruiseLine": "Celebrity Cruises",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/658-large-2f37d10131f2a483a8dd005b3d14b0d9.jpg",
+      "images": [
+        "https://www.cruisemapper.com/images/ships/658-large-2f37d10131f2a483a8dd005b3d14b0d9.jpg",
+        "https://www.cruisemapper.com/images/ships/658-4af65e9cc556082a4c228626ef7ccf9a.jpg"
+      ],
+      "departureDate": "2026-08-15",
+      "returnDate": "2026-08-23",
+      "nights": 8,
+      "departurePort": "Piraeus (Athens), Greece",
+      "itinerary": [
+        { "port": "Piraeus (Athens)", "country": "Greece" },
+        { "port": "Rhodes", "country": "Greece" },
+        { "port": "Kusadasi", "country": "Turkey" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Thessaloniki", "country": "Greece" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1674,
+        "insidePerPerson": 1081,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.icruise.com/itineraries/8-night-best-of-greece-cruise_celebrity-infinity_8-15-2026.html"
+      },
+      "ship": {
+        "yearBuilt": 2001,
+        "yearRefurbished": 2024,
+        "tonnage": 90940,
+        "passengerCapacity": 2170,
+        "crewCount": 999,
+        "rating": 3.8
+      },
+      "reviews": {
+        "overallRating": 3.8,
+        "foodRating": 3.9,
+        "serviceRating": 4.0,
+        "cabinRating": 3.8,
+        "entertainmentRating": 3.5,
+        "valueRating": 3.7,
+        "totalReviews": 1758,
+        "concerns": [
+          "Dining service inconsistent — missed orders are a known issue",
+          "Ship showing age despite 2024 refit — cabins feel cramped",
+          "Higher price for 8 nights but same ship quality as 7-night sailings"
+        ],
+        "highlights": [
+          "8 nights — extra day means Thessaloniki + 6 ports total with Turkey",
+          "Best itinerary for Greece completists — Rhodes, Kusadasi, Mykonos, Santorini, Thessaloniki",
+          "Smaller ship (2,170 guests) means personalized Celebrity service"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-infinity/reviews",
+          "https://www.cruisemapper.com/ships/Celebrity-Infinity-658"
+        ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Trellis Restaurant — main dining", "Bistro on Five — complimentary casual dining"],
+        "specialtyRestaurants": ["Tuscan Grille (~$70/pp)", "Qsine", "Le Petit Chef", "Sushi", "Blu (AquaClass)", "Luminae (suite-only)"],
+        "menuStyle": "Celebrity signature dining + specialty venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
+        "foodScore": 7,
+        "comparisonNotes": "8-night version of the Celebrity Infinity Greece+Turkey itinerary. Extra night adds Thessaloniki. Best food quality in this price range after Celebrity Apex."
+      },
+      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
+      "lastUpdated": "2026-04-08T09:30:00Z",
+      "sourceUrls": [
+        "https://www.icruise.com/itineraries/8-night-best-of-greece-cruise_celebrity-infinity_8-15-2026.html",
+        "https://www.cruisemapper.com/ships/Celebrity-Infinity-658"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "norwegian-pearl-jul26-2026",
+      "shipName": "Norwegian Pearl",
+      "cruiseLine": "Norwegian Cruise Line",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/693-large-53e3a7161e428b65688f14b84d61c610.jpg",
+      "images": [
+        "https://www.cruisemapper.com/images/ships/693-large-53e3a7161e428b65688f14b84d61c610.jpg",
+        "https://www.cruisemapper.com/images/ships/693-8fd8559408f6.jpg"
       ],
       "departureDate": "2026-07-26",
       "returnDate": "2026-08-02",
       "nights": 7,
-      "departurePort": "Rome (Civitavecchia), Italy",
+      "departurePort": "Ravenna (Venice), Italy",
       "itinerary": [
-        { "port": "Civitavecchia", "country": "Italy" },
-        { "port": "Naples", "country": "Italy" },
-        { "port": "Crete", "country": "Greece" },
-        { "port": "Santorini", "country": "Greece" },
+        { "port": "Ravenna", "country": "Italy" },
+        { "port": "Dubrovnik", "country": "Croatia" },
+        { "port": "Kotor", "country": "Montenegro" },
+        { "port": "Corfu", "country": "Greece" },
+        { "port": "Katakolon", "country": "Greece" },
         { "port": "Mykonos", "country": "Greece" },
+        { "port": "Santorini", "country": "Greece" },
         { "port": "Piraeus (Athens)", "country": "Greece" }
       ],
       "pricing": {
-        "balconyPerPerson": 1350,
-        "insidePerPerson": 849,
+        "balconyPerPerson": 1719,
+        "insidePerPerson": 1019,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.royalcaribbean.com/cruise-ships/odyssey-of-the-seas"
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_norwegian-pearl_7-26-2026.html"
       },
       "ship": {
-        "yearBuilt": 2021,
-        "yearRefurbished": null,
-        "tonnage": 169379,
-        "passengerCapacity": 4284,
-        "crewCount": 1663,
-        "rating": 3.0
+        "yearBuilt": 2006,
+        "yearRefurbished": 2025,
+        "tonnage": 93530,
+        "passengerCapacity": 2394,
+        "crewCount": 1072,
+        "rating": 3.5
       },
       "reviews": {
-        "overallRating": 3.0,
-        "foodRating": 3.2,
-        "serviceRating": 3.4,
-        "cabinRating": 3.0,
-        "entertainmentRating": 3.8,
-        "valueRating": 2.8,
-        "totalReviews": 191,
+        "overallRating": 3.5,
+        "foodRating": 3.4,
+        "serviceRating": 3.6,
+        "cabinRating": 3.5,
+        "entertainmentRating": 3.3,
+        "valueRating": 3.3,
+        "totalReviews": 890,
         "concerns": [
-          "Ship too small for 5,000 guests — packed like sardines everywhere",
-          "Service level doesn't justify the price — constant nickel and diming",
-          "Impossible to find space — no deck chairs, no buffet tables, no pool spots"
+          "Most expensive Norwegian Pearl sailing — peak summer pricing",
+          "Reverse direction (Venice→Athens) means less time in Greek islands",
+          "Smaller ship has limited pool and sun deck space"
         ],
         "highlights": [
-          "Service was outstanding, check-in fastest and easiest ever",
-          "SeaPlex was so much fun — ship exceeded expectations for activities"
+          "8 ports in 7 nights — most ports of any deal on this list",
+          "Venice to Athens route — Dubrovnik, Kotor, Corfu, Mykonos, Santorini",
+          "Ends in Athens — option to extend stay in Greece after cruise"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas/reviews",
-          "https://www.cruisemapper.com/ships/Odyssey-Of-The-Seas-1862"
+          "https://www.cruisecritic.com/cruise/norwegian-ncl/norwegian-pearl/reviews",
+          "https://www.cruisemapper.com/ships/Norwegian-Pearl-693"
         ]
       },
       "foodDetails": {
-        "mainDiningHighlights": ["Two-deck Main Dining Room with LED art walls", "El Loco Fresh — pool-deck tacos and burritos (complimentary)"],
-        "specialtyRestaurants": ["Chops Grille (steakhouse)", "Izumi (Japanese + Kosher option)", "Giovanni's Italian Kitchen", "Wonderland (Alice theme)", "Chef's Table (5-course wine pairing)", "Playmakers Sports Bar"],
-        "menuStyle": "Main dining + 15+ specialty and casual venues",
-        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
+        "mainDiningHighlights": ["Summer Palace — main dining", "Indigo — second main dining"],
+        "specialtyRestaurants": ["Cagney's Steakhouse", "Le Bistro (French)", "La Cucina (Italian)", "Teppanyaki", "Lotus Garden"],
+        "menuStyle": "Freestyle Dining — no fixed times",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
         "foodScore": 6,
-        "comparisonNotes": "Modern ship with impressive venue variety. Giovanni's and Wonderland are standouts. But recent cost-cutting complaints dominate reviews. Overcrowding (5,000 guests) is the top issue. Complimentary dining quality declining per recent reviews."
+        "comparisonNotes": "Same Norwegian Pearl but reverse direction and higher price. Venice departure is convenient for flying from Chisinau. Most ports of any deal."
       },
       "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
+      "lastUpdated": "2026-04-08T09:30:00Z",
       "sourceUrls": [
-        "https://www.cruisemapper.com/ships/Odyssey-Of-The-Seas-1862",
-        "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas/reviews"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "celebrity-apex-jul-2026",
-      "shipName": "Celebrity Apex",
-      "cruiseLine": "Celebrity Cruises",
-      "imageUrl": "https://www.cruisemapper.com/images/ships/1587-0f19d684c78.jpg",
-      "images": [
-        "https://www.cruisemapper.com/images/ships/1587-0f19d684c78.jpg"
-      ],
-      "departureDate": "2026-07-18",
-      "returnDate": "2026-07-25",
-      "nights": 7,
-      "departurePort": "Rome (Civitavecchia), Italy",
-      "itinerary": [
-        { "port": "Civitavecchia", "country": "Italy" },
-        { "port": "Naples", "country": "Italy" },
-        { "port": "Santorini", "country": "Greece" },
-        { "port": "Piraeus (Athens)", "country": "Greece" },
-        { "port": "Mykonos", "country": "Greece" },
-        { "port": "Kusadasi", "country": "Turkey" },
-        { "port": "Civitavecchia", "country": "Italy" }
-      ],
-      "pricing": {
-        "balconyPerPerson": 1600,
-        "insidePerPerson": 999,
-        "currency": "USD",
-        "originalPrice": null,
-        "bookingUrl": "https://www.celebritycruises.com/cruise-ships/celebrity-apex"
-      },
-      "ship": {
-        "yearBuilt": 2020,
-        "yearRefurbished": 2023,
-        "tonnage": 130818,
-        "passengerCapacity": 2910,
-        "crewCount": 1320,
-        "rating": 4.0
-      },
-      "reviews": {
-        "overallRating": 4.0,
-        "foodRating": 4.3,
-        "serviceRating": 4.1,
-        "cabinRating": 4.2,
-        "entertainmentRating": 3.8,
-        "valueRating": 3.5,
-        "totalReviews": 328,
-        "concerns": [
-          "Restaurant staff unhappy, uncaring and rude — disappointing quality recently",
-          "Activities very limited — charging for everything including wine tastings",
-          "Last 2 cruises fell far short of expectations — declining standards"
-        ],
-        "highlights": [
-          "Everything about this ship was perfect — staff friendliest ever encountered",
-          "Food fabulous — complimentary restaurants better than specialty on other cruise lines",
-          "Gorgeous ship, favorite of 35+ cruises — first class experience throughout"
-        ],
-        "evidenceUrls": [
-          "https://www.cruisecritic.com/cruise/celebrity/celebrity-apex/reviews",
-          "https://www.cruisemapper.com/ships/Celebrity-Apex-1587"
-        ]
-      },
-      "foodDetails": {
-        "mainDiningHighlights": ["4 complimentary main dining rooms: Cyprus, Cosmopolitan, Normandie, Tuscan", "Eden Restaurant — open kitchen, innovative dishes across 3 design levels"],
-        "specialtyRestaurants": ["Fine Cut Steakhouse", "Raw on 5 (oysters/sushi)", "Le Grand Bistro with Le Petit Chef (animated dining)", "Rooftop Garden Grill", "Luminae at The Retreat (suite-only, Daniel Boulud menus)"],
-        "menuStyle": "Michelin-quality à la carte + 29 dining/bar venues",
-        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
-        "foodScore": 9,
-        "comparisonNotes": "Best food quality of all 8 ships per CruiseCritic (editor 5/5). Complimentary restaurants praised as better than specialty on other lines. Le Petit Chef is a unique experience. Some recent complaints about staff attitude and increasing upcharges."
-      },
-      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:00:00Z",
-      "sourceUrls": [
-        "https://www.cruisemapper.com/ships/Celebrity-Apex-1587",
-        "https://www.cruisecritic.com/cruise/celebrity/celebrity-apex/reviews"
+        "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_norwegian-pearl_7-26-2026.html",
+        "https://www.cruisemapper.com/ships/Norwegian-Pearl-693"
       ],
       "status": "available"
     }
