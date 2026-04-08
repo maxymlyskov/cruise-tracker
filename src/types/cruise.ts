@@ -19,7 +19,26 @@ export interface CruiseDeal {
   description?: string;
   pros?: string[];
   cons?: string[];
+  flights?: FlightInfo;
   status: 'available' | 'sold_out' | 'price_drop' | 'new';
+}
+
+export interface FlightInfo {
+  outbound: FlightLeg;
+  returnFlight: FlightLeg;
+  totalPerPerson: number;
+  totalForTwo: number;
+  searchUrl: string;
+}
+
+export interface FlightLeg {
+  from: string;
+  to: string;
+  airlines: string[];
+  duration: string;
+  pricePerPerson: number;
+  directAvailable: boolean;
+  frequency: string;
 }
 
 export interface FoodDetails {

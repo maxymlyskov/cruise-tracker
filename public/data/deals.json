@@ -80,6 +80,11 @@
       "description": "The newest Edge-class flagship from Celebrity — 11 nights roundtrip from Rome with an overnight in Istanbul, the only cruise on this list offering two full days in Turkey's cultural capital. Visits Santorini, Kusadasi (Ephesus ruins), Mykonos, and Naples. Premium dining by Michelin-starred Daniel Boulud.",
       "cons": ["Balcony at $2,487/pp exceeds $2,000 budget — inside cabin ($1,838) fits", "11 nights is longer than target 7-9 days", "Noise complaints near Martini Bar and pool areas", "Wine and buffet supplies ran out mid-cruise on some sailings"],
       "pros": ["Only cruise with OVERNIGHT in Istanbul — 2 full days to explore", "CruiseCritic editor 4.5/5 — highest rated ship on this list", "Edge-class infinite balcony cabins are stunning", "Le Voyage by Daniel Boulud — genuine Michelin-quality dining at sea", "Inside cabin at $1,838 fits budget and still gets the Istanbul experience"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Rome Fiumicino (FCO)", "airlines": ["Wizz Air", "Wizz Air Malta"], "duration": "2h 40m", "pricePerPerson": 65, "directAvailable": true, "frequency": "~30 flights/month" },
+        "returnFlight": { "from": "Rome Fiumicino (FCO)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air", "Wizz Air Malta"], "duration": "2h 40m", "pricePerPerson": 65, "directAvailable": true, "frequency": "~30 flights/month" },
+        "totalPerPerson": 130, "totalForTwo": 260, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/rome-italy/"
+      },
       "status": "new"
     },
     {
@@ -158,6 +163,11 @@
       "description": "Modern Quantum Ultra-class ship — 7 nights roundtrip Rome hitting Santorini, Kusadasi (Turkey), Mykonos, and Naples. Built 2021 with SeaPlex indoor sports complex and North Star observation pod. CruiseCritic editor 5/5.",
       "cons": ["Overcrowded — 5,000+ guests, hard to find pool/deck space", "Nickel-and-diming on extras", "Balcony $1,705 leaves tight margin for flights", "Buffet quality declining per recent reviews"],
       "pros": ["CruiseCritic editor 5.0/5 — best editorial rating here", "Includes Kusadasi (Turkey) — Ephesus ancient ruins", "Best onboard activities — SeaPlex, North Star, sky-diving simulator", "Built 2021 — newest Royal Caribbean ship in Med"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Rome Fiumicino (FCO)", "airlines": ["Wizz Air", "Wizz Air Malta"], "duration": "2h 40m", "pricePerPerson": 65, "directAvailable": true, "frequency": "~30 flights/month" },
+        "returnFlight": { "from": "Rome Fiumicino (FCO)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air", "Wizz Air Malta"], "duration": "2h 40m", "pricePerPerson": 65, "directAvailable": true, "frequency": "~30 flights/month" },
+        "totalPerPerson": 130, "totalForTwo": 260, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/rome-italy/"
+      },
       "status": "new"
     },
     {
@@ -237,6 +247,11 @@
       "description": "Best value balcony deal — 7 nights roundtrip from Ravenna (Venice area) visiting Santorini, Athens, Mykonos, and Argostoli. Recently refurbished in 2025 with Royal Amplified upgrades. End-of-August sailing means slightly lower prices.",
       "cons": ["Ship built in 2000 — oldest in the fleet despite 2025 refurb", "No Turkey ports on this itinerary", "Late August/early September dates may not suit everyone", "Windjammer buffet gets crowded and inconsistent"],
       "pros": ["Cheapest balcony at $1,328/pp — most budget-friendly option", "2025 Royal Amplified refurb makes it feel modern", "Roundtrip Venice area — easy flight from Chisinau", "Santorini + Athens + Mykonos — hits the top 3 Greek islands"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Venice (VCE)", "airlines": ["Wizz Air Malta"], "duration": "2h 20m", "pricePerPerson": 50, "directAvailable": true, "frequency": "~21 flights/month" },
+        "returnFlight": { "from": "Venice (VCE)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air Malta"], "duration": "2h 20m", "pricePerPerson": 50, "directAvailable": true, "frequency": "~21 flights/month" },
+        "totalPerPerson": 100, "totalForTwo": 200, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/venice-italy/"
+      },
       "status": "new"
     },
     {
@@ -318,6 +333,11 @@
       "description": "Most ports per night — 6 countries in 7 nights from Athens to Venice. Santorini, Katakolon (Olympia), Corfu, Kotor (Montenegro), Dubrovnik, Koper (Slovenia), and Ravenna. One-way sailing lets you start in Greece and end near Venice. Freestyle Dining with no fixed schedules.",
       "cons": ["One-way sailing — need separate flights for Athens and Venice", "Older ship (2006) — feels dated despite 2025 refurb", "Freestyle dining can mean long waits at peak hours", "Smaller ship has limited pool and sun deck space"],
       "pros": ["6 countries in 7 nights — most diverse itinerary available", "Athens to Venice route is a dream Mediterranean journey", "Freestyle Dining — eat when/where you want, no dress code", "Kotor and Dubrovnik are bucket-list destinations", "First ship at sea with a full-size bowling alley"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Athens (ATH)", "airlines": ["Wizz Air", "Aegean"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "returnFlight": { "from": "Venice (VCE)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air Malta"], "duration": "2h 20m", "pricePerPerson": 50, "directAvailable": true, "frequency": "~21 flights/month" },
+        "totalPerPerson": 105, "totalForTwo": 210, "searchUrl": "https://www.kiwi.com/us/search/athens-greece/chisinau-moldova/"
+      },
       "status": "new"
     },
     {
@@ -397,6 +417,11 @@
       "description": "Best value Turkey option — 7 nights roundtrip Athens with stops in Santorini, Rhodes, Kusadasi (Ephesus ruins in Turkey), Mykonos, and Thessaloniki. Celebrity Infinity was refurbished in 2024 with new suites and public spaces. Smaller ship (2,170 guests) means less crowding.",
       "cons": ["Ship built 2001 — can feel tired and cramped in standard cabins", "Dining room service inconsistent — missed orders are a known issue", "Power outage incidents reported on some sailings", "Inside cabin at $1,024 might be a better budget choice"],
       "pros": ["Only 7-night cruise with Turkey (Kusadasi) in budget at $1,416 balcony", "Smaller ship — 2,170 guests vs 5,000+ on mega-ships", "Celebrity service standard — staff goes above and beyond", "Rhodes and Thessaloniki are unique ports not on other itineraries", "2024 refurb added new public spaces and suites"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Athens (ATH)", "airlines": ["Wizz Air", "Aegean", "SkyUp"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "returnFlight": { "from": "Athens (ATH)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air", "Aegean", "SkyUp"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "totalPerPerson": 110, "totalForTwo": 220, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/athens-greece/"
+      },
       "status": "available"
     },
     {
@@ -475,6 +500,11 @@
       "description": "Early July departure from Venice area — same Explorer of the Seas ship as the Aug 29 deal but sailing earlier in peak season. Santorini, Mykonos, Athens, and Argostoli. Slightly higher price reflects peak summer demand.",
       "cons": ["No Turkey ports", "Peak July 4th departure — busiest time of year", "$90 more than the August sailing for same ship/itinerary", "Ship is 26 years old despite refurb"],
       "pros": ["Roundtrip Venice area — convenient for Chisinau flights", "Peak summer weather — best time for Greek islands", "2025 refurb keeps public spaces fresh", "Santorini + Mykonos + Athens — classic Greek combo"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Venice (VCE)", "airlines": ["Wizz Air Malta"], "duration": "2h 20m", "pricePerPerson": 50, "directAvailable": true, "frequency": "~21 flights/month" },
+        "returnFlight": { "from": "Venice (VCE)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air Malta"], "duration": "2h 20m", "pricePerPerson": 50, "directAvailable": true, "frequency": "~21 flights/month" },
+        "totalPerPerson": 100, "totalForTwo": 200, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/venice-italy/"
+      },
       "status": "available"
     },
     {
@@ -555,6 +585,11 @@
       "description": "Mid-July Athens to Venice — 7 ports including Santorini, Katakolon (ancient Olympia), Corfu, Kotor, Split, Koper, and Ravenna. Different route from the Jul 5 sailing — adds Split (Croatia) instead of Dubrovnik. Freestyle Dining with 5 specialty restaurants.",
       "cons": ["One-way Athens→Venice — need separate flights", "$50 more than the Jul 5 sailing", "Split instead of Dubrovnik may disappoint some travelers", "Smaller ship = fewer onboard amenities"],
       "pros": ["Split is a hidden gem — Diocletian's Palace is UNESCO World Heritage", "7 ports in 7 nights — a new destination every single day", "Freestyle Dining — no rigid schedules or dress codes", "Ends in Venice — can add a few days in Venice after"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Athens (ATH)", "airlines": ["Wizz Air", "Aegean"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "returnFlight": { "from": "Venice (VCE)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air Malta"], "duration": "2h 20m", "pricePerPerson": 50, "directAvailable": true, "frequency": "~21 flights/month" },
+        "totalPerPerson": 105, "totalForTwo": 210, "searchUrl": "https://www.kiwi.com/us/search/athens-greece/chisinau-moldova/"
+      },
       "status": "available"
     },
     {
@@ -634,6 +669,11 @@
       "description": "Early July from Athens with Turkey + Hydra — same Celebrity Infinity but different route adds the car-free island of Hydra (donkeys only!) and visits Rhodes before Kusadasi. Higher price than Jul 11 sailing reflects the unique Hydra stop.",
       "cons": ["$147 more than Jul 11 sailing for same ship", "Ship feels tired in standard cabins despite 2024 refit", "Hydra is small — some may prefer more time in bigger ports", "Dining service can be inconsistent"],
       "pros": ["Hydra — unique car-free island with donkey transport, not on any other cruise", "Turkey (Kusadasi/Ephesus) included — ancient ruins day trip", "Rhodes — medieval Old Town is UNESCO World Heritage", "Smaller ship means better Celebrity service experience"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Athens (ATH)", "airlines": ["Wizz Air", "Aegean", "SkyUp"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "returnFlight": { "from": "Athens (ATH)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air", "Aegean", "SkyUp"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "totalPerPerson": 110, "totalForTwo": 220, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/athens-greece/"
+      },
       "status": "available"
     },
     {
@@ -713,6 +753,11 @@
       "description": "Extended 8-night sailing for Greece completists — adds Thessaloniki (Greece's second city) to the Turkey route. Roundtrip Athens visiting Rhodes, Kusadasi (Turkey), Mykonos, Thessaloniki, and Santorini. The extra night gives you a full day in Thessaloniki's vibrant food scene.",
       "cons": ["At $1,674 balcony, leaves only $326 for flights — very tight", "8 nights = higher total cost", "Same ship quality issues as other Infinity sailings", "Mid-August is peak heat in Greece — 35°C+ expected"],
       "pros": ["Most comprehensive Greece+Turkey itinerary available", "Thessaloniki — amazing food city, White Tower, Ano Poli old town", "8 nights means more relaxed pace with sea days", "Roundtrip Athens — simplest flights from Chisinau", "Rhodes, Kusadasi, Mykonos, Santorini — all the highlights"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Athens (ATH)", "airlines": ["Wizz Air", "Aegean", "SkyUp"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "returnFlight": { "from": "Athens (ATH)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air", "Aegean", "SkyUp"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "totalPerPerson": 110, "totalForTwo": 220, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/athens-greece/"
+      },
       "status": "available"
     },
     {
@@ -793,6 +838,11 @@
       "description": "Most ports of any deal — 8 stops in 7 nights from Venice to Athens. Dubrovnik, Kotor (Montenegro), Corfu, Katakolon (Olympia), Mykonos, and Santorini before ending in Athens. One-way Venice→Athens route is the reverse of the Jul 5 sailing.",
       "cons": ["Most expensive Norwegian Pearl at $1,719 — peak summer pricing", "One-way Venice→Athens means separate flights needed", "Reverse direction means less time in Greek islands, more in Croatia", "At this price, Celebrity Infinity with Turkey may be better value"],
       "pros": ["8 ports in 7 nights — a new destination every day, zero wasted days", "Dubrovnik + Kotor — two of the most photogenic Mediterranean towns", "Ends in Athens — option to extend stay and explore Greece", "Mykonos + Santorini on the final days — perfect grand finale"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Venice (VCE)", "airlines": ["Wizz Air Malta"], "duration": "2h 20m", "pricePerPerson": 50, "directAvailable": true, "frequency": "~21 flights/month" },
+        "returnFlight": { "from": "Athens (ATH)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air", "Aegean"], "duration": "2h", "pricePerPerson": 55, "directAvailable": true, "frequency": "~26 flights/month" },
+        "totalPerPerson": 105, "totalForTwo": 210, "searchUrl": "https://www.kiwi.com/us/search/venice-italy/chisinau-moldova/"
+      },
       "status": "available"
     }
   ],

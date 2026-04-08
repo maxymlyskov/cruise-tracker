@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import {
   Ship,
+  Plane,
   Calendar,
   Users,
   Star,
@@ -451,6 +452,53 @@ export function DealCard({ deal }: DealCardProps) {
                     )}
                   </div>
                 )}
+              </div>
+            </>
+          )}
+
+          {/* Flight info */}
+          {deal.flights && (
+            <>
+              <Separator />
+              <div className="rounded-lg bg-muted/30 border border-border/40 p-3 space-y-2">
+                <div className="flex items-center gap-2 mb-1">
+                  <Plane className="h-4 w-4 text-primary" />
+                  <span className="text-xs font-semibold text-foreground uppercase tracking-wider">Flights from Chisinau</span>
+                  <span className="text-xs text-muted-foreground ml-auto">
+                    ~{formatPrice(deal.flights.totalPerPerson)}/pp ({formatPrice(deal.flights.totalForTwo)} for 2)
+                  </span>
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
+                  <div className="space-y-0.5">
+                    <p className="font-medium text-foreground">
+                      Outbound: {deal.flights.outbound.from} → {deal.flights.outbound.to}
+                    </p>
+                    <p className="text-muted-foreground">
+                      {deal.flights.outbound.airlines.join(', ')} · {deal.flights.outbound.duration}
+                      {deal.flights.outbound.directAvailable && ' · Direct available'}
+                    </p>
+                    <p className="text-muted-foreground">~{formatPrice(deal.flights.outbound.pricePerPerson)}/pp · {deal.flights.outbound.frequency}</p>
+                  </div>
+                  <div className="space-y-0.5">
+                    <p className="font-medium text-foreground">
+                      Return: {deal.flights.returnFlight.from} → {deal.flights.returnFlight.to}
+                    </p>
+                    <p className="text-muted-foreground">
+                      {deal.flights.returnFlight.airlines.join(', ')} · {deal.flights.returnFlight.duration}
+                      {deal.flights.returnFlight.directAvailable && ' · Direct available'}
+                    </p>
+                    <p className="text-muted-foreground">~{formatPrice(deal.flights.returnFlight.pricePerPerson)}/pp · {deal.flights.returnFlight.frequency}</p>
+                  </div>
+                </div>
+                <a
+                  href={deal.flights.searchUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[10px] text-primary hover:underline flex items-center gap-1 pt-1"
+                >
+                  Search flights on Kiwi.com
+                  <ExternalLink className="h-2.5 w-2.5" />
+                </a>
               </div>
             </>
           )}
