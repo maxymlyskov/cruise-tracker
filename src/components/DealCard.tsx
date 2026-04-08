@@ -434,6 +434,21 @@ export function DealCard({ deal }: DealCardProps) {
                 </div>
 
                 <div className="space-y-2">
+                  {deal.reviews.concerns.length > 0 && (
+                    <div>
+                      <p className="text-[10px] uppercase tracking-wider text-red-500 font-semibold mb-1">
+                        Watch Out For
+                      </p>
+                      <ul className="space-y-0.5">
+                        {deal.reviews.concerns.map((c, i) => (
+                          <li key={i} className="text-xs text-foreground flex gap-1.5">
+                            <span className="text-red-400 shrink-0">!</span>
+                            {c}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                   {deal.reviews.highlights.length > 0 && (
                     <div>
                       <p className="text-[10px] uppercase tracking-wider text-emerald-600 font-semibold mb-1">
@@ -444,21 +459,6 @@ export function DealCard({ deal }: DealCardProps) {
                           <li key={i} className="text-xs text-foreground flex gap-1.5">
                             <span className="text-emerald-500 shrink-0">+</span>
                             {h}
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
-                  {deal.reviews.concerns.length > 0 && (
-                    <div>
-                      <p className="text-[10px] uppercase tracking-wider text-orange-500 font-semibold mb-1">
-                        Concerns
-                      </p>
-                      <ul className="space-y-0.5">
-                        {deal.reviews.concerns.slice(0, 2).map((c, i) => (
-                          <li key={i} className="text-xs text-muted-foreground flex gap-1.5">
-                            <span className="text-orange-400 shrink-0">−</span>
-                            {c}
                           </li>
                         ))}
                       </ul>
