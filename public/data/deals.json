@@ -1,6 +1,89 @@
 {
-  "lastFetched": "2026-04-08T09:30:00Z",
+  "lastFetched": "2026-04-08T11:00:00Z",
   "deals": [
+    {
+      "id": "celebrity-xcel-jul11-2026",
+      "shipName": "Celebrity Xcel",
+      "cruiseLine": "Celebrity Cruises",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/2194-153a1dfebef.jpg",
+      "images": ["https://www.cruisemapper.com/images/ships/2194-153a1dfebef.jpg"],
+      "departureDate": "2026-07-11",
+      "returnDate": "2026-07-18",
+      "nights": 7,
+      "departurePort": "Barcelona, Spain",
+      "itinerary": [
+        { "port": "Barcelona", "country": "Spain" },
+        { "port": "Valletta", "country": "Malta" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Kusadasi", "country": "Turkey" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Piraeus (Athens)", "country": "Greece" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1696,
+        "insidePerPerson": 1397,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.icruise.com/ships/celebrity-cruises-celebrity-xcel-cruise-itineraries-july-2026.html"
+      },
+      "ship": {
+        "yearBuilt": 2025,
+        "yearRefurbished": null,
+        "tonnage": 140600,
+        "passengerCapacity": 3260,
+        "crewCount": 1416,
+        "rating": 4.5
+      },
+      "reviews": {
+        "overallRating": 4.5,
+        "foodRating": 4.5,
+        "serviceRating": 4.5,
+        "cabinRating": 4.6,
+        "entertainmentRating": 4.3,
+        "valueRating": 4.2,
+        "totalReviews": 0,
+        "concerns": [
+          "Brand new ship (2025) — no passenger reviews yet, only Edge-class sister data",
+          "One-way Barcelona→Athens requires separate flights to different cities",
+          "Balcony at $1,696 is mid-range but leaves ~$300 for flights — tight",
+          "Edge-class Infinite Veranda: opening window kills A/C, shade rattles at night"
+        ],
+        "highlights": [
+          "NEWEST Edge-class ship — launched 2025, same class as Ascent (editor 4.5)",
+          "$791 CHEAPER than Celebrity Ascent balcony for same Edge-class quality",
+          "Santorini + Kusadasi (Turkey) + Mykonos + Malta in 7 nights",
+          "Le Voyage by Daniel Boulud, Eden Restaurant, 29 dining venues",
+          "Resort Deck 40% larger than earlier Edge ships, redesigned Rooftop Garden"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-xcel",
+          "https://www.youtube.com/watch?v=m-Y9-YHyR3I"
+        ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["4 complimentary dining rooms: Cyprus, Cosmopolitan, Normandie, Tuscan", "Eden Restaurant — 3-level open kitchen with innovative seasonal dishes"],
+        "specialtyRestaurants": ["Le Voyage by Daniel Boulud (Michelin-star)", "Fine Cut Steakhouse", "Raw on 5 (oysters/sushi)", "Le Grand Bistro with Le Petit Chef", "Rooftop Garden Grill", "Luminae (suite-only)"],
+        "menuStyle": "Michelin-quality à la carte + 29 dining/bar venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
+        "foodScore": 9,
+        "comparisonNotes": "Identical dining to Celebrity Ascent (same Edge-class) but on a brand-new ship. Le Voyage and Eden are the star venues. Complimentary restaurants better than specialty on most other cruise lines."
+      },
+      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
+      "lastUpdated": "2026-04-08T11:00:00Z",
+      "sourceUrls": [
+        "https://www.icruise.com/ships/celebrity-cruises-celebrity-xcel-cruise-itineraries-july-2026.html",
+        "https://www.cruisecritic.com/cruise/celebrity/celebrity-xcel"
+      ],
+      "description": "SURPRISE FIND — Celebrity's NEWEST Edge-class ship (launched 2025), same quality as the 4.5-rated Ascent but $791 cheaper for balcony. One-way Barcelona to Athens visiting Malta, Santorini, Kusadasi (Turkey), and Mykonos. Same Michelin-star Daniel Boulud dining, Infinite Veranda cabins, and 29 dining venues.",
+      "cons": ["Brand new — zero passenger reviews yet, relying on Edge-class sister ship data", "One-way Barcelona→Athens: different cities for flights", "Infinite Veranda A/C issue: opening window kills cooling (YouTube review)", "Shade in cabin rattles at night per YouTuber Cruise Lifestyle"],
+      "pros": ["NEWEST ship on this list — launched 2025, everything is fresh", "$791 less than Celebrity Ascent for same Edge-class experience", "Turkey (Kusadasi) + Malta — unique combo not on other itineraries", "Le Voyage by Daniel Boulud — Michelin-quality dining included concept", "Resort Deck 40% larger than older Edge ships"],
+      "flights": {
+        "outbound": { "from": "Chisinau (KIV)", "to": "Barcelona (BCN)", "airlines": ["Wizz Air", "Ryanair (via Budapest/Milan)"], "duration": "4-6h (1 stop)", "pricePerPerson": 80, "directAvailable": false, "frequency": "Multiple daily via hubs", "date": "Jul 10, 2026 (Fri)", "notes": "No direct Chisinau→Barcelona. Best: Wizz Air to Milan/Budapest, then Ryanair to BCN. Book as separate tickets." },
+        "returnFlight": { "from": "Athens (ATH)", "to": "Chisinau (KIV)", "airlines": ["Wizz Air Malta"], "flightNumber": "W4 3942", "departureTime": "21:25", "arrivalTime": "23:30", "date": "Jul 18, 2026 (Sat)", "duration": "2h 05m", "pricePerPerson": 55, "directAvailable": true, "frequency": "Tue/Thu/Sat", "notes": "Cruise ends Athens morning Jul 18, full day to explore, evening flight home" },
+        "totalPerPerson": 135, "totalForTwo": 270, "searchUrl": "https://www.kiwi.com/us/search/chisinau-moldova/barcelona-spain/"
+      },
+      "status": "new"
+    },
     {
       "id": "celebrity-ascent-jul6-2026",
       "shipName": "Celebrity Ascent",
@@ -143,7 +226,9 @@
         ],
         "evidenceUrls": [
           "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas/reviews",
-          "https://www.cruisemapper.com/ships/Odyssey-Of-The-Seas-1862"
+          "https://www.cruisemapper.com/ships/Odyssey-Of-The-Seas-1862",
+          "https://www.youtube.com/watch?v=gEPRnBj33b8",
+          "https://www.youtube.com/watch?v=Pp3MmacycVo"
         ]
       },
       "foodDetails": {
@@ -160,7 +245,7 @@
         "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_odyssey-of-the-seas_7-5-2026.html",
         "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas/reviews"
       ],
-      "description": "Modern Quantum Ultra-class ship — 7 nights roundtrip Rome hitting Santorini, Kusadasi (Turkey), Mykonos, and Naples. Built 2021 with SeaPlex indoor sports complex and North Star observation pod. CruiseCritic editor 5/5.",
+      "description": "Editor's 5/5 pick — balcony is only $11 MORE than oceanview ($1,705 vs $1,694) — grab the balcony! 7 nights roundtrip Rome: Santorini, Kusadasi (Turkey), Mykonos, Naples. YouTube first-time cruisers said they were 'totally sold'. FlowRider surfing, iFLY skydiving, North Star observation pod.",
       "cons": ["Overcrowded — 5,000+ guests, hard to find pool/deck space", "Nickel-and-diming on extras", "Balcony $1,705 leaves tight margin for flights", "Buffet quality declining per recent reviews"],
       "pros": ["CruiseCritic editor 5.0/5 — best editorial rating here", "Includes Kusadasi (Turkey) — Ephesus ancient ruins", "Best onboard activities — SeaPlex, North Star, sky-diving simulator", "Built 2021 — newest Royal Caribbean ship in Med"],
       "flights": {
@@ -397,24 +482,26 @@
         ],
         "evidenceUrls": [
           "https://www.cruisecritic.com/cruise/celebrity/celebrity-infinity/reviews",
-          "https://www.cruisemapper.com/ships/Celebrity-Infinity-658"
+          "https://www.cruisemapper.com/ships/Celebrity-Infinity-658",
+          "https://www.youtube.com/watch?v=MOPrFYqTin0",
+          "https://www.youtube.com/watch?v=2EMfvvzrw0M"
         ]
       },
       "foodDetails": {
-        "mainDiningHighlights": ["Trellis Restaurant — main dining, reliable quality", "Bistro on Five — crepes, paninis, salads (complimentary)"],
+        "mainDiningHighlights": ["Trellis Restaurant — main dining, reliable quality", "Blu Restaurant — highlighted as excellent by YouTube reviewer", "Bistro on Five — complimentary crepes and paninis"],
         "specialtyRestaurants": ["Tuscan Grille (~$70/pp)", "Qsine", "Le Petit Chef", "Sushi", "Blu (AquaClass)", "Luminae (suite-only)"],
         "menuStyle": "Celebrity signature dining + specialty venues",
         "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
         "foodScore": 7,
-        "comparisonNotes": "Solid mid-range. Main dining reliable but occasionally inconsistent. Tuscan Grille expensive at ~$70/pp. 2024 refit helped. Smaller ship means better dining experience than mega-ships."
+        "comparisonNotes": "Solid mid-range. Blu Restaurant highlighted as excellent by YouTube reviewer Dockside Travel. Tuscan Grille expensive at ~$70/pp. 2024 refit helped. Smaller ship means better dining experience."
       },
       "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
-      "lastUpdated": "2026-04-08T09:30:00Z",
+      "lastUpdated": "2026-04-08T11:00:00Z",
       "sourceUrls": [
         "https://www.icruise.com/itineraries/7-night-best-of-greece-cruise_celebrity-infinity_7-11-2026.html",
         "https://www.cruisemapper.com/ships/Celebrity-Infinity-658"
       ],
-      "description": "Best value Turkey option — 7 nights roundtrip Athens with stops in Santorini, Rhodes, Kusadasi (Ephesus ruins in Turkey), Mykonos, and Thessaloniki. Celebrity Infinity was refurbished in 2024 with new suites and public spaces. Smaller ship (2,170 guests) means less crowding.",
+      "description": "BEST VALUE Turkey option — 7 nights roundtrip Athens. Oceanview is SAME PRICE as interior ($1,024) — grab the oceanview! Visits Santorini, Rhodes, Kusadasi (Turkey/Ephesus ruins), Mykonos, and Thessaloniki. YouTube reviewer called it 'a game changer' and 'bucket list quality'. Refurbished 2024.",
       "cons": ["Ship built 2001 — can feel tired and cramped in standard cabins", "Dining room service inconsistent — missed orders are a known issue", "Power outage incidents reported on some sailings", "Inside cabin at $1,024 might be a better budget choice"],
       "pros": ["Only 7-night cruise with Turkey (Kusadasi) in budget at $1,416 balcony", "Smaller ship — 2,170 guests vs 5,000+ on mega-ships", "Celebrity service standard — staff goes above and beyond", "Rhodes and Thessaloniki are unique ports not on other itineraries", "2024 refurb added new public spaces and suites"],
       "flights": {
