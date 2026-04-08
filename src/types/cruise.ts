@@ -3,6 +3,7 @@ export interface CruiseDeal {
   shipName: string;
   cruiseLine: string;
   imageUrl: string;
+  images?: string[];
   departureDate: string; // ISO date
   returnDate: string;
   nights: number;

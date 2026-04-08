@@ -98,6 +98,9 @@ export function DealCard({ deal }: DealCardProps) {
   const [showReviews, setShowReviews] = useState(false);
   const [showScoreBreakdown, setShowScoreBreakdown] = useState(false);
   const [showFood, setShowFood] = useState(false);
+  const [activeImg, setActiveImg] = useState(0);
+
+  const allImages = deal.images?.length ? deal.images : deal.imageUrl ? [deal.imageUrl] : [];
 
   const daysUntil = getDaysUntil(deal.departureDate);
   const totalForTwo =
@@ -246,14 +249,31 @@ export function DealCard({ deal }: DealCardProps) {
             </div>
           </div>
 
-          {/* Ship image + Route map side by side */}
+          {/* Ship images + Route map side by side */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {deal.imageUrl && (
-              <img
-                src={deal.imageUrl}
-                alt={deal.shipName}
-                className="w-full h-48 object-cover rounded-lg"
-              />
+            {allImages.length > 0 && (
+              <div className="relative">
+                <img
+                  src={allImages[activeImg]}
+                  alt={`${deal.shipName} - photo ${activeImg + 1}`}
+                  className="w-full h-52 object-cover rounded-lg"
+                />
+                {allImages.length > 1 && (
+                  <div className="absolute bottom-2 left-0 right-0 flex justify-center gap-1.5">
+                    {allImages.map((_, i) => (
+                      <button
+                        key={i}
+                        onClick={() => setActiveImg(i)}
+                        className={`w-2 h-2 rounded-full transition-all ${
+                          i === activeImg
+                            ? 'bg-white scale-125'
+                            : 'bg-white/50 hover:bg-white/75'
+                        }`}
+                      />
+                    ))}
+                  </div>
+                )}
+              </div>
             )}
             <RouteMap itinerary={deal.itinerary} />
           </div>
