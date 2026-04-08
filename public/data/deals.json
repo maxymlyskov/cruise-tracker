@@ -50,8 +50,8 @@
           "Specialty restaurants require reservations booked well in advance"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7823451",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1234"
+          "https://www.cruisecritic.com/cruise/msc/msc-world-europa/reviews",
+          "https://www.cruisecritic.com/cruise/msc/msc-world-europa"
         ]
       },
       "foodDetails": {
@@ -78,7 +78,7 @@
       "lastUpdated": "2026-04-08T06:00:00Z",
       "sourceUrls": [
         "https://www.cruisedirect.com/cruise-ship/msc-world-europa",
-        "https://www.msccruises.com/cruise-rin/MSC-World-Europa"
+        "https://www.msccruises.com/en/cruise-ship/msc-world-europa"
       ],
       "status": "available"
     },
@@ -132,8 +132,8 @@
           "Buffet quality inconsistent — hit or miss depending on the day"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=6512384",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=658"
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-apex/reviews",
+          "https://www.cruisecritic.com/cruise/msc/msc-musica"
         ]
       },
       "foodDetails": {
@@ -160,7 +160,7 @@
       "lastUpdated": "2026-04-08T06:00:00Z",
       "sourceUrls": [
         "https://www.cruises.com/cruise-ship/msc-musica-cruises.htm",
-        "https://www.msccruises.com/cruise-rin/MSC-Musica"
+        "https://www.msccruises.com/en/cruise-ship/msc-musica"
       ],
       "status": "available"
     },
@@ -213,8 +213,8 @@
           "Food quality is average compared to premium lines"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7102938",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=889"
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-infinity/reviews",
+          "https://www.cruisecritic.com/cruise/norwegian/norwegian-getaway"
         ]
       },
       "foodDetails": {
@@ -268,7 +268,7 @@
         "insidePerPerson": 899,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.celebritycruises.com/cruise-ship/celebrity-apex"
+        "bookingUrl": "https://www.celebritycruises.com/cruise-ships/celebrity-apex"
       },
       "ship": {
         "yearBuilt": 2020,
@@ -295,8 +295,8 @@
           "Wi-Fi packages are expensive even by cruise industry standards"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7654321",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1198"
+          "https://www.cruisecritic.com/cruise/costa/costa-fascinosa/reviews",
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-apex"
         ]
       },
       "foodDetails": {
@@ -322,7 +322,7 @@
       },
       "lastUpdated": "2026-04-08T06:00:00Z",
       "sourceUrls": [
-        "https://www.celebritycruises.com/cruise-ship/celebrity-apex",
+        "https://www.celebritycruises.com/cruise-ships/celebrity-apex",
         "https://www.cruises.com/cruise-ship/celebrity-apex-cruises.htm"
       ],
       "status": "available"
@@ -350,7 +350,7 @@
         "insidePerPerson": 649,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.ncl.com/cruise-ship/getaway"
+        "bookingUrl": "https://www.ncl.com/cruise-ships/norwegian-getaway"
       },
       "ship": {
         "yearBuilt": 2014,
@@ -377,8 +377,8 @@
           "Pool deck gets very crowded on sea days in peak summer"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7234567",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=934"
+          "https://www.cruisecritic.com/cruise/msc/msc-fantasia/reviews",
+          "https://www.cruisecritic.com/cruise/costa/costa-fascinosa"
         ]
       },
       "foodDetails": {
@@ -404,7 +404,7 @@
       },
       "lastUpdated": "2026-04-08T06:00:00Z",
       "sourceUrls": [
-        "https://www.ncl.com/cruise-ship/getaway",
+        "https://www.ncl.com/cruise-ships/norwegian-getaway",
         "https://www.cruisedirect.com/cruise-ship/norwegian-getaway"
       ],
       "status": "new"
@@ -458,8 +458,8 @@
           "Chops Grille steakhouse quality slightly below what Royal Caribbean used to deliver"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7891234",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1267"
+          "https://www.cruisecritic.com/cruise/msc/msc-musica/reviews",
+          "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas"
         ]
       },
       "foodDetails": {
@@ -513,7 +513,7 @@
         "insidePerPerson": 849,
         "currency": "USD",
         "originalPrice": null,
-        "bookingUrl": "https://www.celebritycruises.com/cruise-ship/celebrity-infinity"
+        "bookingUrl": "https://www.celebritycruises.com/cruise-ships/celebrity-infinity"
       },
       "ship": {
         "yearBuilt": 2001,
@@ -540,8 +540,8 @@
           "Entertainment options narrower than on newer Celebrity ships"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=6998712",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=312"
+          "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas/reviews",
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-infinity"
         ]
       },
       "foodDetails": {
@@ -567,7 +567,7 @@
       },
       "lastUpdated": "2026-04-08T06:00:00Z",
       "sourceUrls": [
-        "https://www.celebritycruises.com/cruise-ship/celebrity-infinity",
+        "https://www.celebritycruises.com/cruise-ships/celebrity-infinity",
         "https://www.cruises.com/cruise-ship/celebrity-infinity-cruises.htm"
       ],
       "status": "available"
@@ -621,8 +621,8 @@
           "Embarkation in Genoa can be chaotic — arrive early"
         ],
         "evidenceUrls": [
-          "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7341892",
-          "https://www.cruisecritic.com/reviews/ship.cfm?shipID=742"
+          "https://www.cruisecritic.com/cruise/norwegian/norwegian-getaway/reviews",
+          "https://www.cruisecritic.com/cruise/msc/msc-fantasia"
         ]
       },
       "foodDetails": {
@@ -649,7 +649,7 @@
       "lastUpdated": "2026-04-08T06:00:00Z",
       "sourceUrls": [
         "https://www.cruisedirect.com/cruise-ship/msc-fantasia",
-        "https://www.msccruises.com/cruise-rin/MSC-Fantasia"
+        "https://www.msccruises.com/en/cruise-ship/msc-fantasia"
       ],
       "status": "available"
     }
