@@ -2,6 +2,159 @@
   "lastFetched": "2026-04-08T09:30:00Z",
   "deals": [
     {
+      "id": "celebrity-ascent-jul6-2026",
+      "shipName": "Celebrity Ascent",
+      "cruiseLine": "Celebrity Cruises",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/2194-153a1dfebef.jpg",
+      "images": [
+        "https://www.cruisemapper.com/images/ships/2194-153a1dfebef.jpg"
+      ],
+      "departureDate": "2026-07-06",
+      "returnDate": "2026-07-17",
+      "nights": 11,
+      "departurePort": "Civitavecchia (Rome), Italy",
+      "itinerary": [
+        { "port": "Civitavecchia", "country": "Italy" },
+        { "port": "Souda Bay", "country": "Greece" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Kusadasi", "country": "Turkey" },
+        { "port": "Istanbul", "country": "Turkey" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Naples", "country": "Italy" },
+        { "port": "Civitavecchia", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 2487,
+        "insidePerPerson": 1838,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.icruise.com/itineraries/11-night-greece-turkey-and-italy-cruise_celebrity-ascent_7-6-2026.html"
+      },
+      "ship": {
+        "yearBuilt": 2023,
+        "yearRefurbished": null,
+        "tonnage": 140600,
+        "passengerCapacity": 3260,
+        "crewCount": 1416,
+        "rating": 4.5
+      },
+      "reviews": {
+        "overallRating": 4.5,
+        "foodRating": 4.4,
+        "serviceRating": 4.5,
+        "cabinRating": 4.6,
+        "entertainmentRating": 4.3,
+        "valueRating": 4.0,
+        "totalReviews": 150,
+        "concerns": [
+          "Hard to find quiet spot — music playing loudly inside and outside constantly",
+          "Main dining chicken and fish dishes can be dry and inconsistent",
+          "Wine and buffet items ran out mid-cruise — supply issues",
+          "Cabins near Martini Bar experience significant ambient noise"
+        ],
+        "highlights": [
+          "OVERNIGHT IN ISTANBUL — only cruise with 2-day Istanbul stop in this list",
+          "Breathtaking entertainment, outstanding dining, stunning Edge-class design",
+          "Infinite balcony cabins — innovative glass-to-floor design unique to Edge class",
+          "Le Voyage by Daniel Boulud — expanded Michelin-starred chef restaurant"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/cruise/celebrity/celebrity-ascent",
+          "https://www.cruisemapper.com/ships/Celebrity-Ascent-2194"
+        ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["4 complimentary main dining rooms: Cyprus, Cosmopolitan, Normandie, Tuscan", "Eden Restaurant — 3-level open kitchen with innovative dishes"],
+        "specialtyRestaurants": ["Le Voyage by Daniel Boulud (Michelin-star chef)", "Fine Cut Steakhouse", "Raw on 5 (oysters/sushi)", "Le Grand Bistro with Le Petit Chef", "Rooftop Garden Grill", "Luminae (suite-only)"],
+        "menuStyle": "Michelin-quality à la carte + 29 dining/bar venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
+        "foodScore": 9,
+        "comparisonNotes": "Edge-class flagship with best food of any mainstream ship. Le Voyage by Daniel Boulud is a true fine-dining experience. Complimentary restaurants praised as better than specialty on other lines. Editor rating 4.5/5."
+      },
+      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
+      "lastUpdated": "2026-04-08T10:00:00Z",
+      "sourceUrls": [
+        "https://www.icruise.com/itineraries/11-night-greece-turkey-and-italy-cruise_celebrity-ascent_7-6-2026.html",
+        "https://www.cruisecritic.com/cruise/celebrity/celebrity-ascent"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "odyssey-seas-jul5-2026",
+      "shipName": "Odyssey of the Seas",
+      "cruiseLine": "Royal Caribbean",
+      "imageUrl": "https://www.cruisemapper.com/images/ships/1862-6403cb2e42c.jpg",
+      "images": [
+        "https://www.cruisemapper.com/images/ships/1862-6403cb2e42c.jpg"
+      ],
+      "departureDate": "2026-07-05",
+      "returnDate": "2026-07-12",
+      "nights": 7,
+      "departurePort": "Civitavecchia (Rome), Italy",
+      "itinerary": [
+        { "port": "Civitavecchia", "country": "Italy" },
+        { "port": "Santorini", "country": "Greece" },
+        { "port": "Kusadasi", "country": "Turkey" },
+        { "port": "Mykonos", "country": "Greece" },
+        { "port": "Naples", "country": "Italy" },
+        { "port": "Civitavecchia", "country": "Italy" }
+      ],
+      "pricing": {
+        "balconyPerPerson": 1705,
+        "insidePerPerson": 1464,
+        "currency": "USD",
+        "originalPrice": null,
+        "bookingUrl": "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_odyssey-of-the-seas_7-5-2026.html"
+      },
+      "ship": {
+        "yearBuilt": 2021,
+        "yearRefurbished": null,
+        "tonnage": 169379,
+        "passengerCapacity": 4284,
+        "crewCount": 1663,
+        "rating": 4.0
+      },
+      "reviews": {
+        "overallRating": 4.0,
+        "foodRating": 3.8,
+        "serviceRating": 4.2,
+        "cabinRating": 4.0,
+        "entertainmentRating": 4.5,
+        "valueRating": 3.5,
+        "totalReviews": 191,
+        "concerns": [
+          "Ship too small for 5,000 guests — packed like sardines everywhere",
+          "Service level doesn't justify premium price — constant nickel and diming",
+          "Impossible to find space — no deck chairs, no buffet tables, no pool spots"
+        ],
+        "highlights": [
+          "Editor rating 5.0/5 — stunning modern ship with incredible activities",
+          "SeaPlex (indoor sports/entertainment complex) is genuinely fun",
+          "Includes Kusadasi (Turkey) — Ephesus ancient ruins within budget",
+          "Check-in fastest and easiest ever experienced on a cruise"
+        ],
+        "evidenceUrls": [
+          "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas/reviews",
+          "https://www.cruisemapper.com/ships/Odyssey-Of-The-Seas-1862"
+        ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Two-deck Main Dining Room with LED art walls and crystal chandelier", "El Loco Fresh — complimentary pool-deck tacos and burritos"],
+        "specialtyRestaurants": ["Chops Grille (steakhouse)", "Izumi (Japanese + Kosher option)", "Giovanni's Italian Kitchen (best variety onboard)", "Wonderland (Alice in Wonderland theme)", "Chef's Table (5-course wine pairing)", "Playmakers Sports Bar"],
+        "menuStyle": "Main dining + 15+ specialty and casual venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free", "Kosher"],
+        "foodScore": 7,
+        "comparisonNotes": "Modern ship with impressive dining variety. Giovanni's and Wonderland are standouts. Editor 5.0/5 but user reviews flag overcrowding and cost-cutting. Best entertainment of any ship in this list."
+      },
+      "score": { "total": 0, "breakdown": { "price": 0, "food": 0, "itinerary": 0, "shipModernity": 0, "ratings": 0, "balconyValue": 0 }, "rank": 0, "recommendation": "" },
+      "lastUpdated": "2026-04-08T10:00:00Z",
+      "sourceUrls": [
+        "https://www.icruise.com/itineraries/7-night-greek-isles-cruise_odyssey-of-the-seas_7-5-2026.html",
+        "https://www.cruisecritic.com/cruise/royal-caribbean/odyssey-of-the-seas/reviews"
+      ],
+      "status": "new"
+    },
+    {
       "id": "explorer-seas-aug-2026",
       "shipName": "Explorer of the Seas",
       "cruiseLine": "Royal Caribbean",
