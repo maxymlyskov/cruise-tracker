@@ -2,6 +2,7 @@ export interface CruiseDeal {
   id: string;
   shipName: string;
   cruiseLine: string;
+  imageUrl: string;
   departureDate: string; // ISO date
   returnDate: string;
   nights: number;
@@ -10,10 +11,20 @@ export interface CruiseDeal {
   pricing: Pricing;
   ship: ShipDetails;
   reviews: ReviewSummary;
+  foodDetails: FoodDetails;
   score: DealScore;
   lastUpdated: string; // ISO datetime
   sourceUrls: string[];
   status: 'available' | 'sold_out' | 'price_drop' | 'new';
+}
+
+export interface FoodDetails {
+  mainDiningHighlights: string[];
+  specialtyRestaurants: string[];
+  menuStyle: string; // e.g. "International buffet + à la carte"
+  dietaryOptions: string[]; // e.g. ["Vegetarian", "Vegan", "Gluten-free", "Kosher"]
+  foodScore: number; // 1-10
+  comparisonNotes: string; // brief comparison to other lines
 }
 
 export interface PortStop {

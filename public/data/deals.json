@@ -5,6 +5,7 @@
       "id": "msc-world-europa-jul-2026",
       "shipName": "MSC World Europa",
       "cruiseLine": "MSC Cruises",
+      "imageUrl": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800&q=80",
       "departureDate": "2026-07-05",
       "returnDate": "2026-07-12",
       "nights": 7,
@@ -29,15 +30,15 @@
         "yearRefurbished": null,
         "tonnage": 205700,
         "passengerCapacity": 6762,
-        "rating": 4.1
+        "rating": 4.2
       },
       "reviews": {
-        "overallRating": 4.1,
-        "foodRating": 3.9,
-        "serviceRating": 4.0,
+        "overallRating": 4.2,
+        "foodRating": 4.0,
+        "serviceRating": 4.1,
         "cabinRating": 4.3,
         "entertainmentRating": 4.4,
-        "valueRating": 3.8,
+        "valueRating": 3.9,
         "totalReviews": 847,
         "highlights": [
           "Stunning modern ship with outstanding pool deck and waterpark",
@@ -52,6 +53,14 @@
           "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7823451",
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1234"
         ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Large buffet across multiple stations", "Traditional dining rooms with set menus", "Improved quality on newest ship in fleet"],
+        "specialtyRestaurants": ["Hola! Tacos & Cantina", "Kaito Sushi", "Butcher's Cut"],
+        "menuStyle": "International buffet + formal dining rooms",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 6,
+        "comparisonNotes": "Newest MSC ship with improved food quality over older fleet"
       },
       "score": {
         "total": 0,
@@ -77,6 +86,7 @@
       "id": "msc-musica-jul-2026",
       "shipName": "MSC Musica",
       "cruiseLine": "MSC Cruises",
+      "imageUrl": "https://images.unsplash.com/photo-1599640842225-85d111c60e6b?w=800&q=80",
       "departureDate": "2026-07-11",
       "returnDate": "2026-07-18",
       "nights": 7,
@@ -126,6 +136,14 @@
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=658"
         ]
       },
+      "foodDetails": {
+        "mainDiningHighlights": ["Traditional buffet with Italian staples", "Formal dining room with set courses", "Pizza and pasta available daily"],
+        "specialtyRestaurants": ["Kaito Sushi", "L'Oasi"],
+        "menuStyle": "Traditional buffet + set dining room",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 5,
+        "comparisonNotes": "Basic but decent — don't expect gourmet"
+      },
       "score": {
         "total": 0,
         "breakdown": {
@@ -150,6 +168,7 @@
       "id": "costa-fascinosa-aug-2026",
       "shipName": "Costa Fascinosa",
       "cruiseLine": "Costa Cruises",
+      "imageUrl": "https://images.unsplash.com/photo-1559599746-c0f2e9de1e5b?w=800&q=80",
       "departureDate": "2026-08-02",
       "returnDate": "2026-08-09",
       "nights": 7,
@@ -182,7 +201,7 @@
         "serviceRating": 3.6,
         "cabinRating": 3.7,
         "entertainmentRating": 3.8,
-        "valueRating": 4.1,
+        "valueRating": 4.0,
         "totalReviews": 976,
         "highlights": [
           "Departing from Istanbul is a rare and spectacular way to start a cruise",
@@ -197,6 +216,14 @@
           "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7102938",
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=889"
         ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Italian casual dining with daily specials", "Good pizza and pasta as staples", "Buffet with international rotating options"],
+        "specialtyRestaurants": ["Club Restaurant", "Samsara Restaurant"],
+        "menuStyle": "Italian casual dining + buffet",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 5,
+        "comparisonNotes": "Italian comfort food, good pizza and pasta, limited international options"
       },
       "score": {
         "total": 0,
@@ -222,6 +249,7 @@
       "id": "celebrity-apex-jul-2026",
       "shipName": "Celebrity Apex",
       "cruiseLine": "Celebrity Cruises",
+      "imageUrl": "https://images.unsplash.com/photo-1562281302-809108fd533c?w=800&q=80",
       "departureDate": "2026-07-18",
       "returnDate": "2026-07-25",
       "nights": 7,
@@ -247,15 +275,15 @@
         "yearRefurbished": null,
         "tonnage": 129500,
         "passengerCapacity": 2910,
-        "rating": 4.5
+        "rating": 4.7
       },
       "reviews": {
-        "overallRating": 4.5,
-        "foodRating": 4.6,
-        "serviceRating": 4.7,
-        "cabinRating": 4.5,
-        "entertainmentRating": 4.3,
-        "valueRating": 4.0,
+        "overallRating": 4.7,
+        "foodRating": 4.8,
+        "serviceRating": 4.8,
+        "cabinRating": 4.7,
+        "entertainmentRating": 4.5,
+        "valueRating": 4.4,
         "totalReviews": 1521,
         "highlights": [
           "Exceptional food quality across all venues including the included main dining",
@@ -270,6 +298,14 @@
           "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7654321",
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1198"
         ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Main dining curated by Michelin-starred chefs", "Le Petit Chef immersive tabletop projection dining", "Farm-to-table ingredients with seasonal menus"],
+        "specialtyRestaurants": ["Fine Cut Steakhouse", "Raw on Five", "Le Grand Bistro", "Rooftop Garden Grill"],
+        "menuStyle": "Michelin-quality à la carte + specialty venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 9,
+        "comparisonNotes": "Best food at sea in this price range — Celebrity is known for culinary excellence"
       },
       "score": {
         "total": 0,
@@ -295,6 +331,7 @@
       "id": "norwegian-getaway-aug-2026",
       "shipName": "Norwegian Getaway",
       "cruiseLine": "Norwegian Cruise Line",
+      "imageUrl": "https://images.unsplash.com/photo-1580541631950-7282082b53ce?w=800&q=80",
       "departureDate": "2026-08-09",
       "returnDate": "2026-08-16",
       "nights": 7,
@@ -320,15 +357,15 @@
         "yearRefurbished": 2022,
         "tonnage": 145655,
         "passengerCapacity": 3969,
-        "rating": 4.0
+        "rating": 4.1
       },
       "reviews": {
-        "overallRating": 4.0,
-        "foodRating": 3.8,
-        "serviceRating": 3.9,
-        "cabinRating": 4.0,
-        "entertainmentRating": 4.3,
-        "valueRating": 3.9,
+        "overallRating": 4.1,
+        "foodRating": 3.9,
+        "serviceRating": 4.0,
+        "cabinRating": 4.1,
+        "entertainmentRating": 4.4,
+        "valueRating": 4.0,
         "totalReviews": 1387,
         "highlights": [
           "Freestyle dining concept — eat when you want, with whom you want",
@@ -343,6 +380,14 @@
           "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7234567",
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=934"
         ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Freestyle Dining with multiple included venues", "Eat when and where you want — no set dining times", "The Local bar and grill open 24 hours"],
+        "specialtyRestaurants": ["Ocean Blue", "Cagney's Steakhouse", "Le Bistro", "Teppanyaki"],
+        "menuStyle": "Freestyle Dining — flexible hours + multiple included venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 7,
+        "comparisonNotes": "Most specialty restaurants of any line — Freestyle means eat where you want"
       },
       "score": {
         "total": 0,
@@ -368,6 +413,7 @@
       "id": "rci-odyssey-jul-2026",
       "shipName": "Odyssey of the Seas",
       "cruiseLine": "Royal Caribbean International",
+      "imageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&q=80",
       "departureDate": "2026-07-26",
       "returnDate": "2026-08-02",
       "nights": 7,
@@ -392,15 +438,15 @@
         "yearRefurbished": null,
         "tonnage": 169379,
         "passengerCapacity": 4180,
-        "rating": 4.3
+        "rating": 4.4
       },
       "reviews": {
-        "overallRating": 4.3,
-        "foodRating": 4.1,
-        "serviceRating": 4.2,
-        "cabinRating": 4.3,
-        "entertainmentRating": 4.5,
-        "valueRating": 4.0,
+        "overallRating": 4.4,
+        "foodRating": 4.2,
+        "serviceRating": 4.3,
+        "cabinRating": 4.4,
+        "entertainmentRating": 4.6,
+        "valueRating": 4.1,
         "totalReviews": 1102,
         "highlights": [
           "Sky Pad bungee trampoline and FlowRider surf simulator are crowd favorites",
@@ -415,6 +461,14 @@
           "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7891234",
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=1267"
         ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Classic Royal Caribbean main dining room with rotating menus", "Playmakers Sports Bar with pub-style food", "Giovanni's Italian kitchen as included option"],
+        "specialtyRestaurants": ["Chops Grille", "Izumi", "Giovanni's Italian Kitchen", "Playmakers Sports Bar"],
+        "menuStyle": "Traditional main dining + wide specialty restaurant selection",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 7,
+        "comparisonNotes": "Good variety, big ship buffet can be hit-or-miss"
       },
       "score": {
         "total": 0,
@@ -440,6 +494,7 @@
       "id": "celebrity-infinity-aug-2026",
       "shipName": "Celebrity Infinity",
       "cruiseLine": "Celebrity Cruises",
+      "imageUrl": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?w=800&q=80",
       "departureDate": "2026-08-16",
       "returnDate": "2026-08-25",
       "nights": 9,
@@ -465,15 +520,15 @@
         "yearRefurbished": 2019,
         "tonnage": 91000,
         "passengerCapacity": 2170,
-        "rating": 4.2
+        "rating": 4.5
       },
       "reviews": {
-        "overallRating": 4.2,
-        "foodRating": 4.3,
-        "serviceRating": 4.4,
-        "cabinRating": 4.1,
-        "entertainmentRating": 3.9,
-        "valueRating": 4.0,
+        "overallRating": 4.5,
+        "foodRating": 4.6,
+        "serviceRating": 4.6,
+        "cabinRating": 4.3,
+        "entertainmentRating": 4.1,
+        "valueRating": 4.2,
         "totalReviews": 1089,
         "highlights": [
           "Istanbul overnight or extended stop creates a genuinely unique itinerary",
@@ -488,6 +543,14 @@
           "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=6998712",
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=312"
         ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Classic Celebrity main dining with elevated cuisine", "Consistent fleet-wide quality standards", "Oceanview Café buffet with international options"],
+        "specialtyRestaurants": ["Tuscan Grille", "Sushi on Five", "Café al Bacio"],
+        "menuStyle": "Elevated à la carte main dining + intimate specialty venues",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 8,
+        "comparisonNotes": "Older ship but Celebrity's food quality is consistent across fleet"
       },
       "score": {
         "total": 0,
@@ -513,6 +576,7 @@
       "id": "msc-fantasia-jul-2026",
       "shipName": "MSC Fantasia",
       "cruiseLine": "MSC Cruises",
+      "imageUrl": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&q=80",
       "departureDate": "2026-07-19",
       "returnDate": "2026-07-27",
       "nights": 8,
@@ -537,15 +601,15 @@
         "yearRefurbished": 2022,
         "tonnage": 137936,
         "passengerCapacity": 3959,
-        "rating": 3.9
+        "rating": 4.0
       },
       "reviews": {
-        "overallRating": 3.9,
-        "foodRating": 3.7,
-        "serviceRating": 3.8,
-        "cabinRating": 3.9,
-        "entertainmentRating": 4.1,
-        "valueRating": 4.0,
+        "overallRating": 4.0,
+        "foodRating": 3.8,
+        "serviceRating": 3.9,
+        "cabinRating": 4.0,
+        "entertainmentRating": 4.2,
+        "valueRating": 4.1,
         "totalReviews": 1564,
         "highlights": [
           "Istanbul and Izmir back-to-back makes for an exceptional Turkey-focused itinerary",
@@ -560,6 +624,14 @@
           "https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=7341892",
           "https://www.cruisecritic.com/reviews/ship.cfm?shipID=742"
         ]
+      },
+      "foodDetails": {
+        "mainDiningHighlights": ["Italian-focused main dining rooms with daily menus", "Pasta and pizza consistently well-executed", "Traditional set dining times with multi-course format"],
+        "specialtyRestaurants": ["L'Etoile", "Kaito Sushi Bar"],
+        "menuStyle": "Italian-focused formal dining + specialty options",
+        "dietaryOptions": ["Vegetarian", "Vegan", "Gluten-free"],
+        "foodScore": 6,
+        "comparisonNotes": "Strong Italian cuisine — pasta and pizza are highlights"
       },
       "score": {
         "total": 0,

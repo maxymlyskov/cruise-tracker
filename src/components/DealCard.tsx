@@ -12,6 +12,7 @@ import {
   ChevronDown,
   ChevronUp,
   TrendingDown,
+  UtensilsCrossed,
 } from 'lucide-react';
 import {
   Card,
@@ -28,6 +29,7 @@ import {
   TooltipTrigger,
 } from '@/components/ui/tooltip';
 import type { CruiseDeal } from '@/types/cruise';
+import { RouteMap } from '@/components/RouteMap';
 import {
   formatPrice,
   formatDateRange,
@@ -95,6 +97,7 @@ function ScoreBar({
 export function DealCard({ deal }: DealCardProps) {
   const [showReviews, setShowReviews] = useState(false);
   const [showScoreBreakdown, setShowScoreBreakdown] = useState(false);
+  const [showFood, setShowFood] = useState(false);
 
   const daysUntil = getDaysUntil(deal.departureDate);
   const totalForTwo =
@@ -241,6 +244,18 @@ export function DealCard({ deal }: DealCardProps) {
                 </span>
               ))}
             </div>
+          </div>
+
+          {/* Ship image + Route map side by side */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {deal.imageUrl && (
+              <img
+                src={deal.imageUrl}
+                alt={deal.shipName}
+                className="w-full h-48 object-cover rounded-lg"
+              />
+            )}
+            <RouteMap itinerary={deal.itinerary} />
           </div>
 
           <Separator />
@@ -475,7 +490,88 @@ export function DealCard({ deal }: DealCardProps) {
             )}
           </div>
 
-          <Separator />
+          {deal.foodDetails && (
+            <>
+              <div>
+                <button
+                  onClick={() => setShowFood((v) => !v)}
+                  className="w-full flex items-center justify-between group/food"
+                >
+                  <div className="flex items-center gap-2">
+                    <UtensilsCrossed className="h-4 w-4 text-muted-foreground" />
+                    <span className="text-sm font-semibold text-foreground">
+                      Food {deal.foodDetails.foodScore}/10
+                    </span>
+                    <span className="text-xs text-muted-foreground italic truncate max-w-48">
+                      {deal.foodDetails.menuStyle}
+                    </span>
+                  </div>
+                  {showFood ? (
+                    <ChevronUp className="h-4 w-4 text-muted-foreground group-hover/food:text-foreground transition-colors" />
+                  ) : (
+                    <ChevronDown className="h-4 w-4 text-muted-foreground group-hover/food:text-foreground transition-colors" />
+                  )}
+                </button>
+
+                {showFood && (
+                  <div className="mt-3 space-y-3">
+                    {deal.foodDetails.mainDiningHighlights.length > 0 && (
+                      <div>
+                        <p className="text-[10px] uppercase tracking-wider text-emerald-600 font-semibold mb-1">
+                          Main Dining
+                        </p>
+                        <ul className="space-y-0.5">
+                          {deal.foodDetails.mainDiningHighlights.map((h, i) => (
+                            <li key={i} className="text-xs text-foreground flex gap-1.5">
+                              <span className="text-emerald-500 shrink-0">•</span>
+                              {h}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                    {deal.foodDetails.specialtyRestaurants.length > 0 && (
+                      <div>
+                        <p className="text-[10px] uppercase tracking-wider text-muted-foreground font-semibold mb-1">
+                          Specialty Restaurants
+                        </p>
+                        <div className="flex flex-wrap gap-1">
+                          {deal.foodDetails.specialtyRestaurants.map((r, i) => (
+                            <Badge key={i} variant="secondary" className="text-[10px] px-2 py-0.5">
+                              {r}
+                            </Badge>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {deal.foodDetails.dietaryOptions.length > 0 && (
+                      <div>
+                        <p className="text-[10px] uppercase tracking-wider text-muted-foreground font-semibold mb-1">
+                          Dietary Options
+                        </p>
+                        <div className="flex flex-wrap gap-1">
+                          {deal.foodDetails.dietaryOptions.map((d, i) => (
+                            <Badge key={i} variant="outline" className="text-[10px] px-1.5 py-0">
+                              {d}
+                            </Badge>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {deal.foodDetails.comparisonNotes && (
+                      <p className="text-xs text-muted-foreground italic leading-relaxed">
+                        {deal.foodDetails.comparisonNotes}
+                      </p>
+                    )}
+                  </div>
+                )}
+              </div>
+              <Separator />
+            </>
+          )}
 
           {/* Recommendation + action row */}
           <div className="flex items-center justify-between gap-3 flex-wrap">

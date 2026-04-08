@@ -1,6 +1,7 @@
 import { Ship } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { formatDate } from '@/lib/formatters';
+import { ThemeToggle } from '@/components/ThemeToggle';
 
 interface HeaderProps {
   lastFetched: string;
@@ -27,8 +28,9 @@ export function Header({ lastFetched, totalDeals }: HeaderProps) {
             </div>
           </div>
 
-          {/* Right: deals badge + last updated */}
+          {/* Right: theme toggle + deals badge + last updated */}
           <div className="flex items-center gap-3 sm:shrink-0">
+            <ThemeToggle />
             <Badge variant="secondary" className="text-sm px-2.5 py-1">
               {totalDeals} {totalDeals === 1 ? 'deal' : 'deals'}
             </Badge>
