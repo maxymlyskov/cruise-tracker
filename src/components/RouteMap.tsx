@@ -77,15 +77,7 @@ export function RouteMap({ itinerary, className = '' }: RouteMapProps) {
 
     const latLngs = points.map((p) => L.latLng(p.coords[0], p.coords[1]));
 
-    // Route polyline
-    L.polyline(latLngs, {
-      color: '#6366f1',
-      weight: 3,
-      opacity: 0.8,
-      dashArray: '8, 6',
-    }).addTo(map);
-
-    // Port markers
+    // Port markers (dots only, no route lines)
     points.forEach((p, i) => {
       const isEndpoint = i === 0 || i === points.length - 1;
       const circle = L.circleMarker(L.latLng(p.coords[0], p.coords[1]), {

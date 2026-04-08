@@ -411,6 +411,50 @@ export function DealCard({ deal }: DealCardProps) {
             </Tooltip>
           </div>
 
+          {/* Description + Pros/Cons */}
+          {(deal.description || deal.pros || deal.cons) && (
+            <>
+              <Separator />
+              <div className="space-y-3">
+                {deal.description && (
+                  <p className="text-sm text-muted-foreground leading-relaxed">
+                    {deal.description}
+                  </p>
+                )}
+                {(deal.pros || deal.cons) && (
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    {deal.cons && deal.cons.length > 0 && (
+                      <div className="rounded-lg bg-red-500/5 border border-red-500/10 p-3">
+                        <p className="text-[10px] uppercase tracking-wider text-red-500 font-semibold mb-1.5">Minuses</p>
+                        <ul className="space-y-1">
+                          {deal.cons.map((c, i) => (
+                            <li key={i} className="text-xs text-foreground flex gap-1.5">
+                              <span className="text-red-400 shrink-0">−</span>
+                              {c}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                    {deal.pros && deal.pros.length > 0 && (
+                      <div className="rounded-lg bg-emerald-500/5 border border-emerald-500/10 p-3">
+                        <p className="text-[10px] uppercase tracking-wider text-emerald-500 font-semibold mb-1.5">Pluses</p>
+                        <ul className="space-y-1">
+                          {deal.pros.map((p, i) => (
+                            <li key={i} className="text-xs text-foreground flex gap-1.5">
+                              <span className="text-emerald-400 shrink-0">+</span>
+                              {p}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            </>
+          )}
+
           <Separator />
 
           {/* Reviews mini-summary */}

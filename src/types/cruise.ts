@@ -16,6 +16,9 @@ export interface CruiseDeal {
   score: DealScore;
   lastUpdated: string; // ISO datetime
   sourceUrls: string[];
+  description?: string;
+  pros?: string[];
+  cons?: string[];
   status: 'available' | 'sold_out' | 'price_drop' | 'new';
 }
 
